@@ -25,14 +25,14 @@ The repository **is** the skill directory, so it clones straight into place.
 **Available in every project on that machine:**
 
 ```bash
-git clone git@github.com:liischaaai-create/coach-k-credit.git \
+git clone https://github.com/liischaaai-create/coach-k-credit.git \
   ~/.claude/skills/coach-k-credit
 ```
 
 **Or scoped to one project:**
 
 ```bash
-git clone git@github.com:liischaaai-create/coach-k-credit.git \
+git clone https://github.com/liischaaai-create/coach-k-credit.git \
   /path/to/project/.claude/skills/coach-k-credit
 ```
 
