@@ -1,0 +1,41 @@
+
+
+number of employees for the business. They are assigned to company files that do
+not        contain         a         current         financial       statement.
+
+ER (Employee Range) Ratings apply to certain lines of business that do not lend
+themselves to classification under the D&B Rating system. Instead, we assign
+these types of businesses an Employee Range symbol based on the number of
+people employed. No other significance should be attached to this symbol.
+
+For example, a rating of "ER7" means there are between five and nine employees
+in the company. "ERN" should not be interpreted negatively. It simply means we
+do not have information indicating how many people are employed at this firm.
+
+The D&B Rating field in a report may also display the following designations
+when certain conditions are present:
+The '- -' Symbol: This represents the absence of a D&B Rating and should not be
+interpreted as indicating that credit should be denied. It means that the information
+available to D&B does not permit us to classify the company within our Rating
+Key and that further inquiry should be made before reaching a credit decision.
+Some reasons for using the "- -" symbol include: deficit net worth, bankruptcy
+proceedings, lack of sufficient payment information or incomplete history
+indicator.
+DS (DUNS Support): This indicates that the information available to D&B does
+not permit us to classify the company within our Rating Key. When ordering these
+reports, an investigation can be performed and results sent to you at your request
+for an additional fee.
+D-U-N-S® Number (Data Universal Numbering System) - The D&B D-U-N-S
+Number is a non-indicative, nine-digit number assigned to each business location
+in the D&B database having a unique, separate, and distinct operation, and is
+maintained solely by D&B. The D&B D-U-N-S Number is used by industries and
+organizations around the world as a global standard for business identification and
+tracking. If you don’t have a D-U-N-S Number, you can get one for free through
+the SBS site.
+DUNSRight - DUNSRight is the data quality process that ensures that you get the
+most accurate and complete information available.
+Employees Here – Total number of employees for all locations of the business.
+Employees Total – Total number of employees for all locations of the business.
+eUpdate – eUpdate is a simple tool you can use to ensure our database contains the
+
+                                                                                 291

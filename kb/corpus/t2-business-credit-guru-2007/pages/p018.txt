@@ -1,0 +1,40 @@
+      Alternatively, the Commercial Credit Score (CCS) is the next big item and is often completely
+      overlooked by entrepreneurs when assessing their own company’s creditworthiness. The importance is
+      akin to the overall FICO score of the company and is often used in determining whether a company is
+      creditworthy. It is this score that is often the determining factor in bank credit line decisions. The
+      Commercial Credit Score creates a statistical model for the likelihood of a company being delinquent, or
+      90 days past terms to any of its vendors over the next 12 months. In other words, the CCS, shows whether
+      or not the company may default or be delinquent at some point in the future. It’s a predictive score that
+      anticipates when a company will generally pay its bills.
+
+      A table of these scores and how they rank is provided below:
+
+                       Commercial                     Credit Score                  Credit Score
+                       Credit Score                    Percentile                      Class
+                         536-670                        91-100                           1
+                         493-535                         71-90                           2
+                         423-492                         31-70                           3
+                         376-422                         11-30                           4
+                         101-375                         1-10                            5
+
+
+
+      If it’s not obvious from the table, anything below a 400 Commercial Credit Score is usually grounds for
+      automatic denial of credit. I have seen few companies with scores below 400 get approved for bank credit
+      lines. Once a company reaches and maintains itself among the higher echelons of credit scores in the
+      chart above, less emphasis is put on the personal FICO score of the shareholder in credit based decisions.
+
+                                                  G u r u Tip
+         The Paydex and Commercial Credit Score account for most of the criteria that Credit Grantors
+        look for when approving or declining a credit request. To determine how much credit to grant is
+                         dependent upon the recommended credit limit by the bureau.
+
+                                          G u r u Recommendation
+      “Periodically check your business credit scores. It never hurts to know how good or bad you look to
+                                               a Credit Grantor.”
+
+
+      The final score that is taken into consideration is the Financial Stress Score. This score predicts the
+      likelihood of a firm going out of business without paying its creditors in full, reorganizing, filing for
+
+

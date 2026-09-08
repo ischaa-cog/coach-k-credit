@@ -1,0 +1,49 @@
+                    Trade Lines & Net-30/60/90
+CHAPTER 17
+                    Vendors:    The   Business
+                    Credit Secret Weapon
+     When I talk to entrepreneurs about building business credit,
+     the first question I always get is:
+
+     "How do I get accounts that actually report and build my
+     score?"
+     The answer is trade lines and vendor accounts — specifically
+     Net-30/60/90 vendors. This chapter breaks down exactly how
+     they work and which ones to target first.
+
+      What Is a Trade Line?
+
+      A trade line is any account that appears on a credit report.
+
+      Examples: Credit cards, Loans, Vendor accounts, Lines of credit
+      For business credit, trade lines are the Dun & Bradstreet (D&B)
+      requires at least THREE trade lines reporting before generating
+      a PAYDEX score.
+      No trade lines reporting = No PAYDEX score = No business
+      credit profile
+      Your First Goal:
+      Get 3 trade lines reporting. Everything else comes after.
+
+      Personal vs Business Trade Lines
+
+         FEATURE             PERSONAL TRADE LINE                   BUSINESS TRADE
+                                                                        LINE
+
+       Reports To       TransUnion, Equifax, Experian           D&B, Experian
+                                                                Business, Equifax
+
+       Tied To          Social Security Number                  EIN
+
+
+       Examples         Credit cards, auto loans                Vendor accounts,
+                                                                business cards
+
+       Privacy          Private                                 Public
+
+
+       Score            Affects FICO                            Builds PAYDEX
+       Impact
+
+       Liability        Personal risk                           Business liability
+                                                                only
+

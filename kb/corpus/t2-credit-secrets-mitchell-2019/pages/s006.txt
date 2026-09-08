@@ -1,0 +1,83 @@
+RATING AGENCIES
+
+Who are the rating agencies?
+
+
+Credit rating agencies (CRA) are private companies whose main activity is to assess the ability of debt issuers to meet their financial obligations. Contrary to what the term "agency" might suggest, these are private for-profit organizations and not regulatory or government organizations.
+The main agencies on the market are Moody's, Standard & Poor's and Fitch Ratings. These three agencies alone hold about 85% of the market. There is virtually no competition in this market because the barriers to entry are very high.
+The rating agencies' business model is based primarily on remuneration paid by rated entities, advisory activities and the dissemination of rating data.
+
+What is the notation?
+The rating gives an opinion on the ability of an issuer to meet its obligations to its creditors, or security to generate payments of principal and interest in accordance with the schedule. Registered entities are therefore potentially all financial or non-financial agents issuing debt: governments, public or semi-public bodies, financial institutions, non-financial corporations. The rating may also relate not to an issuer in general, but to a security (bond, ABS, and MBS, etc.) in particular. The rating of securitization operations expanded considerably before the 2008-2009 financial crisis.
+Different rating scales exist depending on the agencies, entities rated and the period considered (long-term or short-term). 
+
+Notation
+Description
+AAA 
+Best credit quality
+The rating 'AAA' corresponds to the lowest possibility of default risk. It is only awarded in the case of an unusually high capacity to meet financial commitments. It is highly unlikely that this ability will be negatively affected by predictable events.
+AA 
+Very high credit quality
+The notation 'AA' corresponds to a possibility of very low risk of default. It denotes a very high capacity to meet financial commitments. This capability is not significantly vulnerable to predictable events.
+AT 
+High credit quality
+The notation 'A' corresponds to a possibility of low credit risk. The ability to meet financial commitments is considered strong. This capacity may nevertheless be more vulnerable to adverse commercial or economic conditions than in the case of higher ratings.
+BBB 
+Good credit quality
+The notation 'BBB' indicates that credit default possibilities are currently low. The ability to meet financial commitments is considered satisfactory, but adverse business or economic conditions are more likely to undermine this capacity .
+BB 
+Speculative
+The 'BB' rating indicates a high vulnerability to default risk, especially in the event of adverse changes in commercial or economic conditions. However, there is room for commercial or financial maneuver and to support the service of financial commitments.
+B 
+Highly speculative
+The notation 'B' indicates that the risk of concrete defect is present, but a narrow margin of safety remains. Financial commitments are currently maintained; however, sustainable payment capacity is vulnerable to a deterioration of the business or economic environment.
+CCC 
+Substantial credit risk
+Lack of payment is a real possibility.
+DC 
+Very high credit risk
+A payment default of any kind appears likely.
+C 
+Exceptionally high level of credit risk
+The default of payment is imminent or inevitable, or the issuer is in suspension of payment (standstill).
+RD 
+Restricted Default
+The issuer has been in persistent default on a bond, loan or other tangible financial debt, but has not entered bankruptcy, receivership or any other official liquidation procedure, and has not Moreover, it has not stopped its activities.
+D 
+Default of payment
+The issuer is in bankruptcy, under administration or other official liquidation procedure, or otherwise ceased operations.
+
+
+What does the notation, not say?
+Agencies insist a lot on the fact that rating is an opinion, not some form of guarantee or commitment on their part, which under US law shelters them from lawsuits from investors. In addition, the rating allows a relative valuation of the different issuers but does not constitute an assessment of the probability of absolute default of an issuer. This remark has a certain relevance if one considers that, in the absolute, adverse economic conditions may be likely to weaken all agents without necessarily changing their relative positioning.
+The rating is an assessment of credit risk to the exclusion of all other risks. It gives no indication of the potential profitability of an investment, nor the volatility of securities issued. The rating does not say anything about the liquidity of a security, that is to say, the possibility of finding a price and a market counterparty to buy or sell this security. This aspect was badly felt during the last financial crisis when many investors were unable to liquidate their positions on securities rated "triple A".
+The rating gives no indication of the probability of default of an issue, nor the potential loss in case of default. Nor does it provide an opinion on the quality of an issuer as a counterparty, other than the credit risk it represents.
+
+The rating process
+The rating is generally established at the request of the issuer, but it can also be triggered by the rating agency itself.
+A rating committee consisting of analysts, directors and junior analysts is formed. This committee collects available data, public or not, on the issuer and its market. Once the rating is established, the agency continues to follow the issuer and may need to revise it periodically.
+The rating of structured products such as ABS or MBS follows a different process. Indeed, the product is built ("structured", as its name indicates) by the sponsor, who is always at the origin of the request for rating, in order to obtain a certain rating (for more details, see the page on securitization ). The rating process then becomes iterative, the agency advises the structurer, the latter submits a proposal if the rating goal is not reached he reviews his copy ... or goes to another agency. We then clearly see what conflict of interest agencies are facing, and it is not surprising that some have given in to a certain complacency vis-à-vis their customers who are, remember, the same ones that they are supposed to note, and who will pay them only if the rating is finally published.
+More objectively, the rating of structured products is based firstly on an assessment of the pool of collateral on which the product is backed up (stress tests, simulating loss-in-default scenarios are implemented), and the other hand on the proposed capital structure (tranches). The objective is to determine what amount of credit enhancement is required for each tranche to achieve the desired rating.
+As in the rating of issuers, the agency continues to monitor the rated security after having published its initial rating, especially the behavior of collateral pool in the face of economic conditions and may need to review the rating.
+The information and models used to establish the rating of structured products are rarely made public, unlike corporate bonds, which are required to disclose a certain amount of data (balance sheet). , income statement) concerning them.
+
+The role of rating agencies in the financial system
+Rating agencies are key players in the markets. In fact, ratings are widely used in the regulatory framework on the one hand, and also in the strategies of many investors.
+At the regulatory level, the so-called "standard" approach for applying the solvency ratio is completely based on the ratings of credit agencies.
+To be eligible for central bank refinancing operations, the securities must have a minimum rating.
+Similarly, the management objectives of many investors are based on ratings: for example, a UCITS (Undertakings for Collective Investments in Transferable Securities) may have in its objectives to hold 80% of assets issued by issuers rated at least "BBB". The indicators for monitoring credit risk in corporate and investment banks are also based on ratings.
+Lastly, ratings condition the risk premium that an issuer seeking to finance on the markets will have to pay. This risk premium determines how much the rate it will have to serve investors must be higher than the rate of issuers rated "triple A" for its securities to be subscribed.
+
+Rating agencies and the financial crisis
+Rating agencies are accused of participating in the outbreak of the 2007-2009 financial crisis for two reasons. First of all, they tended to note too much complacently titles that eventually turned out to be "toxic", despite (or because of?) The sophisticated financial packages on which they rested. When real estate market conditions began to deteriorate in the United States, they reacted by sharply lowering the rating of many issues ("downgrading"), contributing to the downward spiral in which the market was driven.
+Previously, the agencies had already aroused criticism during bankruptcies that they had been totally unable to anticipate: Parmalat, Enron, Worldcom, etc. Subsequently, they were again singled out during the Greek debt crisis.
+
+The regulation of rating agencies
+In the United States, rating agencies are overseen by the SEC (Securities and Exchange Commission) which grants the status of NRSRO, Nationally Recognized Statistical Rating Organization.
+The European Union has also adopted its own rules, which will apply from April 2010. This regulation provides for a procedure for registering agencies with CESR (Committee of European Securities Regulators), which became ESMA, the greater transparency on the methods used, how conflicts of interest are managed, etc. Finally, the regulation provides for the creation of a historical database, which should make it possible to monitor the performance of ratings over time.
+The International Organization of Securities Commissions (IOSCO ) publishes a code of conduct that agencies tend to follow.
+As for the investors, it is in principle recommended to them not to trust the ratings of the agencies blindly, but at the same time, as long as the supervisory authorities continue to use these same ratings in the regulations, it is difficult to see how could do without it!
+
+
+
+7

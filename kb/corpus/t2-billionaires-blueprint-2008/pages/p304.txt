@@ -1,0 +1,60 @@
+
+
+k. Earnings Before Income Taxes                             167,000 109,000
+
+
+
+l. Income Taxes                                              57,000     37,000
+
+
+m. Net Earnings                                             110,000     72,000
+
+
+Example Manufacturing Co. Inc. Cash Flow Statement
+
+                                                       Sources/(Uses)
+
+
+
+Operating Activities
+
+Net   Income                                                     $110,000
+
+Plus: Depreciation                                                    50,000
+
+      Decrease in Prepaid Expenses                                     1,000
+
+      Increase in Deferred Tax Liability                              10,000
+
+                                                                  171,000
+
+
+
+Less: Profit on Sale of Equipment                                 (25,000)
+
+      (line 9(2005) + Note 1 - f - 9(2006) - Note 2)
+
+      Increase in Inventories                                         (7,000)
+
+      Increase in Accounts Receivable                                 (8,000)
+
+      Decrease in Accounts Payable                                    (4,000)
+
+Net Cash Provided From Operating Activities                       127,000
+
+
+
+Investing Activities
+
+      Capital Expenditures                                       (167,000)
+
+      Increase in Investments                                     (50,000)
+
+      Proceeds From Sale of Equipment                                 92,000
+
+Net Cash Provided From Investing Activities                      (125,000)
+
+
+
+
+                                                                                 304

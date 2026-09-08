@@ -1,0 +1,20 @@
+
+
+       for corporations incorporated in 2003 and before. If you are simply looking for aged
+       corporations, this is not necessary but when strictly looking for corporations with
+       80 paydexes, you will want to stick to the older corporations.
+
+   3. Last Event: This is the last event of the corporation with the state. You will be
+      looking for corporations that read “REVOKED FOR ANNUAL REPORT” or “ADMIN
+      DISSOLUTION FOR ANNUAL REPORT”. These are the only two situations where
+      you can reinstate the corporation.
+
+Although we have found a company that was incorporated in 2004 and dissolved in 2008,
+we will not be able to reinstate this corporation even if it has good credit. We have to
+continue looking until we find a corporation that meat all our criteria. We can now go back
+to the list as seen in Figure: SBS4.
+
+
+
+
+17 |

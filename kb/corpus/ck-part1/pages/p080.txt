@@ -1,0 +1,48 @@
+The Two-Payment System — How It Works
+
+
+ Payment               When                   Purpose                Goal
+
+
+                3–5 days BEFORE          Reduce balance         Keep
+ Payment 1      statement closing                               utilization
+                                         before reporting
+                date                                            below 10%
+
+                On or before due         Pay remaining          Maintain
+ Payment 2                                                      perfect
+                date                     balance
+                                                                payment
+
+Real Example
+   Credit Limit: $5,000
+   Spending: $1,500
+   Closing Date: 15th
+   Due Date: 8th
+
+ ❌ Old Method (1 Payment)
+   Pay $1,500 on due date
+   Statement reports $1,500
+   Utilization = 30%
+   Score Impact: Negative
+
+
+✅ New Method (2 Payments)
+   Pay $1,400 before closing date
+   Reported balance = $100 (2% utilization)
+   Pay remaining $100 on due date
+  Score Impact: Excellent
+Same spending. Different timing. Massive results.
+
+
+How to Find Your Closing Date
+
+   Log into your credit card account and look for:
+   Statement date
+   Closing date
+   Billing cycle end date
+
+📌 This is usually 20–25 days before your due date
+Set a reminder 5 days before to make Payment 1.
+
+

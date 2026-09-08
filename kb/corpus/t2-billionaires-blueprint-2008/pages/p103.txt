@@ -1,0 +1,39 @@
+
+
+Paydex score
+
+The Paydex score is equivalent to a Fico score for individuals except it is a score
+used by D&B for businesses. The Paydex score is a predictive indicator that
+measures the likelihood of your business paying within an agreed upon timeframe.
+It can be for a 3 or 12 month period. You can view the trend to see if a company’s
+payment experiences are improving or worsening. To obtain a paydex score
+requires trade references that report to Dun & Bradstreet. Paydex scores range
+from 0 to 100, and a score of 80 or higher is a good score. To obtain the highest
+Paydex score you need it least five-trade references to report positive payment
+experiences to Dun & Bradstreet. The Paydex is a weighted average; so for trade
+references that report to D&B the higher the dollar amount the greater the
+importance in scoring when compared with the lower dollar trade references. (So
+when it comes to your Paydex if you have ten accounts at $1,000 & one at
+$100,000 it would be more detrimental to your paydex to pay your trade with the
+$100,000 balance late then it would be to pay all ten of your $1,000 dollar trades
+on terms, this works the same in reverse so always pay the larger trades first.) Here
+is the D&B Score Interpretation Table:
+
+D&B Score Interpretation Table
+
+
+D&B PAYDEX Score                           Payment Habit
+100                                        Anticipate
+90                                         Discount
+80                                         Prompt
+70                                         15 days beyond terms
+60                                         22 days beyond terms
+50                                         30 days beyond terms
+40                                         60 days beyond terms
+30                                         90 days beyond terms
+20                                         120 days beyond terms
+UN                                         Unavailable
+
+
+
+                                                                                 103

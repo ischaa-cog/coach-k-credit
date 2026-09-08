@@ -1,0 +1,41 @@
+
+
+Commercial Credit Score – Predicts the likelihood of an account becoming
+severely delinquent within the next 12 months. The 101-660 scale gives is a direct
+correlation between the score and risk. Each 40-pt increase or decrease relates to a
+doubling or halving the risk. For example, a business that scores 360 is twice as
+risky as a business that scores 400.
+Comprehensive Report – The Comprehensive Report is an in-depth evaluation of
+a company’s short/long term financial stability. This report offers an in-depth view
+of a company’s financial position, offers comparisons to industry norms, and is the
+only credit report that includes scores and analysis that predict future payment
+habits and financial stability.
+Control Date – The year the present management took control. For example, if a
+business was started in 1985 but was sold to new owners in 1996, the Control Date
+will be 1996.
+Credit Capacity Summary – Reviews an analysis of credit capacity (size, overall
+financial condition, payment capacity) to gauge the firm’s ability to take on
+additional credit.
+Credit Limit Recommendation – The D&B Credit Limit Recommendation is
+intended to help you more easily manage your credit decisions. It provides two
+recommended dollar guidelines: A conservative limit, which suggests a dollar
+benchmark if your policy is to extend less credit to minimize risk and an
+aggressive limit, which suggests a dollar benchmark if your policy is to extend
+more credit with potentially more risk.
+The dollar guideline amounts are based on a historical analysis of the credit
+demand of customers in D&B’s U.S. payments database who have a similar profile
+to the business you are evaluating in respect to employee size and industry. The
+guidelines do not address whether a particular business can pay that amount or
+whether a particular customer’s total credit limit has achieved (based on their total
+trade experiences and outstanding balances). Each set of limits is accompanies by
+an assessment of the risk category a business falls into, or D&B’s assessment of
+how likely they are to continue to pay their obligations within terms and their
+likelihood of undergoing financial stress in the next 12 months. The risk category
+is created using D&B’s risk modeling methodology and is based on the company’s
+credit and financial stress scores.
+Generally speaking, D&B’s standard limit recommendations are less applicable for
+very large credit lines – over one million dollars – and when assessing very large
+organizations, which may pay slowly as a rule. You are most likely to the find the
+recommended limits useful for small to medium-large size decisions. The
+
+                                                                                 289

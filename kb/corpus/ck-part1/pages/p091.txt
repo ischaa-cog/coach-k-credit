@@ -1,0 +1,51 @@
+VCC Regulations — Virtual Credit Cards & Prepaid
+Card Protections
+
+Virtual credit cards (VCCs) and prepaid cards are widely used
+in modern fintech. Understanding the laws that govern them
+protects you from fraud and unfair liability.
+
+
+       Regulation                     Covers                 Your Protection
+
+
+ Reg E (Electronic           Debit cards, prepaid         Liability limited to
+ Fund Transfer Act)          cards, transfers             $50 (2 days) or $500
+ Reg Z (Truth in             Credit cards                 Zero liability for
+ Lending Act)                (including VCCs)             unauthorized
+
+ CFPB Prepaid Rule           Digital wallets              Error resolution +
+                             (Venmo, PayPal,              disclosure
+
+ CARD Act (2009)             All credit cards             Limits rate increases,
+                                                          prevents unfair fees
+
+ Regulation                  Covers                       Your Protection
+
+
+
+Where to File Complaints and Get Legal Help
+
+If a lender, bureau, or company violates your rights, you have
+multiple escalation options. Use them strategically.
+
+
+    Agency /               What They Handle                       Contact
+    Resource
+
+ CFPB                 Credit bureaus, lenders,           consumerfinance.gov/
+                      banks, debt collectors             complaint
+
+ FTC                  Identity theft, scams,             reportfraud.ftc.gov
+                      fraud
+ State Attorney       State-level violations             naag.org
+ General
+
+ BBB                  General complaints &               bbb.org/file-a-
+                      mediation                          complaint
+
+ NCLC                 Legal resources &                  nclc.org
+                      education
+
+
+

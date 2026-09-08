@@ -1,0 +1,30 @@
+THE STEPS TO FILL OUT THE 1099A (BENEFICIARY) ARE AS FOLLOWS:
+
+Once you made an account on 1099aOnline.com and you’re logged in, select Dashboard, then select
+eFile New Form. Next Select Tax year (2021). Next Select form (1099A). Now its time to start filling it
+out the following form
+
+In the Lenders Box, Select Add.
+
+
+
+
+Type: Business
+
+EIN: 52-0907065
+
+Business Name: United States Treasury
+
+Business Address: 1111 Constitutional Avenue NW
+
+City: Washington
+
+State: District of Columbia
+
+ZIP Code: 20224
+
+Number: 8008291040
+
+Last Filing: DO NOT CHECK
+
+When Done, Press Add

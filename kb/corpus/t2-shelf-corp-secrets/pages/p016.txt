@@ -1,0 +1,24 @@
+
+
+
+Now that we have some insight on initially choosing a corporation to do research on, let us
+view the record of A-1 Inc. : Status INACT/UA.
+
+Figure: SBS5
+
+
+
+
+The arrows points to some of the information that you have to look out for.
+
+   1. The FEI/EIN Number: This is the same as the Tax ID number. If the
+      corporation does not have a Tax Id number, this will indicate that it        Note
+      has not had any credit activity.
+   2. Date Filed: This is the incorporation date. I have found that                When looking for a
+      corporations that are five years old and younger seldom have                 corporation we must
+      established credit files. I usually bypass these corporations and look       ensure that it is a “For
+                                                                                   Profit Corporation” or a
+16 |                                                                               “Limited Liability
+                                                                                   Corporation”. This is an
+                                                                                   aspect that can easily be
+                                                                                   overlooked.

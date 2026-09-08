@@ -1,0 +1,7 @@
+Box 1: The Date you intend to submit this 1099A
+Box 2: The Total Amount for the Obligations you want to purchase
+Box 3: Fair Market Value of Property or Any fees for Gas, Upkeep, Furnishing home
+
+
+Example: If the house you want is 1 million dollars.
+Box 2: 1,000,000

@@ -1,0 +1,43 @@
+
+
+determine what state the corporation was originally formed, the age of the EIN is
+not shown in the number. After calling the IRS several times and obtaining a
+consistent answer, they mentioned that the EIN is not a serial number.
+
+In other words, EIN's are not provided this way:
+
+90-1053780
+
+90-1053781
+
+90-1053782
+
+Instead, they are random numbers:
+
+90-5893518
+
+90-8934168
+
+90-7152159
+
+Since the numbers are random, you cannot tell the age by the number. Don't
+OVERPAY for a shelf corporation because a promoter tells you that the EIN is
+aged. There's no way to tell what is the age of the EIN.
+
+Food For Thought
+
+It’s essential that your business credit profile changes with your business; your
+business credibility can be enhanced when the information on file is correct and
+up-to-date.
+
+Just as important as accuracy and timeliness is the completeness of your profile.
+When there is little or no information in your D&B business credit profile, this can
+suggest that your company may be a risky proposition for potential creditors.
+Incomplete information can be as harmful as poor credit activity – in risk analysis,
+unknown quantities are considered risky. For these reasons, it is essential that you
+establish your business credit profile, populate it with as much information about
+your business as you can, and ensure that you update and review it regularly.
+
+
+
+                                                                                264

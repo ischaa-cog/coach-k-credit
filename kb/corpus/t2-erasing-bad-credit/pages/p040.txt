@@ -1,0 +1,46 @@
+
+owe.
+
+
+Collection (paid/unpaid) - This indicates that an account was placed
+either to an in-house department or outside third party for the purpose of
+collecting past due amounts of the debt.
+
+
+Judgment - The binding opinion of a court entered on behalf of a party
+involved in a lawsuit. In credit reports a judgment normally shows against
+the consumer. A judgment means that a consumer is liable to another
+party for the amount of the judgment. A judgment is the official and
+authentic decision of a court of justice upon the respective rights and
+claims of the parties to an action or suit therein litigated and submitted to
+its determination.
+
+
+Satisfied Judgment - Where a judgment has been ordered, this
+reference indicates that the consumer has paid/extinguished the obligation
+imposed by the court through the judgment issued.
+
+
+
+Closed Account - Reported by Subscriber- This notation reads that the
+account is no longer in existence and the consumer is unable to use that
+account to incur debt. It also indicates that the creditor closed the account
+because the creditor chose to no longer do business with the consumer.
+This line indicates a negative connotation regarding the data.
+
+
+Tax Lien - This refers to a tax obligation that has not been paid and has
+had a lien placed against the assets or holdings of the consumer.
+
+
+Paid Tax Lien - This shows that a tax obligation resulting in a lien has
+been satisfied and that the consumer is no longer liable for the tax
+obligation.
+
+
+Bankruptcy - Indicates that the account was involved in a bankruptcy
+proceeding. This does not necessarily state that the account was
+discharged, only that the account was included in some form of action.
+                                       Page 40
+
+eBusinesspower 2000,2001                                www.ErasingBadCredit.com

@@ -1,0 +1,50 @@
+[ ] This account was included in bankruptcy and should reflect discharged
+status
+[ ] Other: [Describe your specific reason]
+(Check all that apply and fill in the 'Other' line if needed before mailing)
+
+
+CHARGE-OFF DETAILS:
+Creditor / Account Name: [Name]
+Account Number: [Number]
+Date of Charge-Off: [Date]
+Date of First Delinquency: [Date — this is critical for the 7-year clock]
+Reported Balance: $[Amount]
+
+
+For a charge-off to be reported accurately, the creditor must be able to
+verify:
+(1) The original account agreement bearing my signature
+(2) The complete, accurate payment history
+(3) The correct date of first delinquency
+(4) The correct charge-off date and amount
+(5) Any payments made toward this account after charge-off
+
+
+If [Creditor Name] or any collection agency holding this account is unable
+to provide and verify ALL of the above within 30 days, this item must be
+deleted from my credit report immediately pursuant to FCRA Section 1681i.
+
+
+ENCLOSURES:
+[X] Copy of credit report with charge-off account highlighted
+[X] Copy of government-issued photo ID
+[ ] Any supporting documentation you possess
+
+
+Sincerely,
+[Your Signature]
+[Your Full Printed Name]
+[Last 4 of SSN: XXX-XX-####]
+[Date of Birth: MM/DD/YYYY]
+
+
+
+   COACH K TIP
+
+   After mailing, write the certified mail tracking number and
+   the date on your copy of this letter. The 30-day
+   investigation clock starts the day the bureau RECEIVES
+   your letter — not the day you mail it. Check your tracking
+   at usps.com.
+

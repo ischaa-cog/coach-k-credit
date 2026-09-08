@@ -1,0 +1,70 @@
+
+
+D&B PAYDEX Value Table
+PAYDEX Value Chart
+
+         PAYDEX              Average Days to Pay
+
+            100              30 days sooner than terms
+
+             99              29 days sooner than terms
+
+             98              28 days sooner than terms
+
+             97              27 days sooner than terms
+
+             96              26 days sooner than terms
+
+             95              25 days sooner than terms
+
+             94              24 days sooner than terms
+
+             93              23 days sooner than terms
+
+             92              22 days sooner than terms
+
+             91              21 days sooner than terms
+
+             90              20 days sooner than terms
+
+             89              18 days sooner than terms
+
+             88              16 days sooner than terms
+
+             87              14 days sooner than terms
+
+             86              12 days sooner than terms
+
+             85              10 days sooner than terms
+
+             84              8 days sooner than terms
+
+             83              6 days sooner than terms
+
+             82              4 days sooner than terms
+
+             81              2 days sooner than terms
+
+             80              ON TERMS
+
+             79              2 days beyond terms
+
+             78              3 days beyond terms
+
+             77              5 days beyond terms
+
+             76              6 days beyond terms
+
+             75              8 days beyond terms
+
+             74              9 days beyond terms
+
+             73              11 days beyond terms
+
+             72              12 days beyond terms
+
+             71              14 days beyond terms
+
+
+
+                                                         313

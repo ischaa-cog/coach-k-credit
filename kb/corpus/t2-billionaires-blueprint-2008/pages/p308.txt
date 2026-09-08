@@ -1,0 +1,59 @@
+
+
+         ($38,000 + $42,000)/2       x 365 = 40 days
+
+         ---------------------
+
+         $358,000 + $7,000
+
+
+
+
+Example Manufacturing Company Inc. Pro Forma Balance Sheet
+
+     As of December 31,                                     2007
+
+
+
+
+Assets
+
+Current Assets
+
+     1. Cash                                           $       4,000
+
+     2. Marketable Securities                                 10,000
+
+     3. Accounts Receivable                                   52,000
+
+     4. Inventories                                          196,000
+
+     5. Prepaid Expenses                                       2,000
+
+  6. Total Current Assets                                    265,000
+
+
+
+  7. Plant, Property, and Equipment                        1,242,000
+
+     8. Less Accumulated Depreciation                        508,000
+
+  9. Net PPE                                                 734,000
+
+10. Investments                                              333,000
+
+11. Other Assets                                              21,000
+
+12. Total Assets                                           1,352,000
+
+
+
+Liabilities
+
+Current Liabilities
+
+     13. Accounts Payable                                     48,000
+
+     14. Notes Payable                                       100,000
+
+                                                                       308

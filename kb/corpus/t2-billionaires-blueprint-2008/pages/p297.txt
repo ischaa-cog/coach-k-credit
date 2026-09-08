@@ -1,0 +1,42 @@
+
+
+Payment Trend by Industry - See at a glance how the company's payment habits,
+as reported by D&B, compare with those of other companies in its line of business.
+Predictive Scoring / Models - Predictive scoring is the process of using historical
+information to predict future outcomes. It involves identifying the risks inherent in
+a future decision by examining the relationship between historical information and
+the future event. In essence, it is an objective and statistically derived counterpart
+to subjective, intuitive assessments. The objective of a score is to report the risk
+involved in a given decision. Predictive Scoring allows you to rank order accounts
+based on the probability of an event occurring. Predictive Scoring represents a
+statistical probability, not a guarantee. Examples include the Risk of Late Payment
+Indicator in the Credit eValuator Report and the Commercial Credit and Financial
+Stress Scores in the Business Information and Comprehensive Reports.
+Primary SIC - Represents a company's activity with the largest percentage of
+sales revenue. See SIC Code.
+Public Filings - This term is used to identify bankruptcy filing, suit, lien, and
+judgment information obtained from Federal and State court houses for a company.
+Rating or D&B Rating - The D&B Rating can help you quickly assess a firm's
+size and composite credit appraisal, based on information in a company's interim or
+fiscal balance sheet and an overall evaluation of the firm's creditworthiness.
+
+The "5A" to "HH" Rating Classifications reflect company size based on worth or
+equity as computed by D&B. Company size can be an effective indicator of credit
+capacity. These Ratings are assigned to businesses that have supplied D&B with a
+current                            financial                           statement.
+
+The Composite Credit Appraisal is a number, 1 through 4 that makes up the
+second half of the company's rating and reflects D&B's overall assessment of that
+firm's creditworthiness. The Composite Credit Appraisal is based on D&B’s
+analysis of company payments, financial information, public records, business age
+and         other        important        factors       (when          available).
+
+Note: A "2" is the highest Composite Credit Appraisal a company not supplying
+D&B       with      current    financial     information     can      receive.
+
+The "1R" and "2R" Rating categories reflect company size based on the total
+number of employees for the business. They are assigned to company files that do
+not        contain         a         current         financial       statement.
+
+
+                                                                                  297

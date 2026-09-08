@@ -1,0 +1,46 @@
+
+
+The following is an example of what a trade reference sheet should look like:
+                                               ABC Inc.
+                                          123 Blvd. Suite. 001
+                                        San Francisco, Ca 98321
+                                            (415)555-5555
+
+
+
+                                               Trades:
+             Johnny’s Office Supplies              Jacks Business Venture
+                     Xyz St.                              321 Ave.
+              San Francisco, Ca                        San Francisco, Ca
+                By Fax Only:                           By Fax Only:
+               (415)555-0000                         (415)555-5050
+
+
+
+             Sally’s Printing Service              Stanley’s Equipment Warehouse
+                Anywhere Road.                            Any street Way.
+              San Francisco, Ca                          San Francisco, Ca
+                 By Fax Only:                           By Fax Only:
+                 (415)555-5545                             (415)555-5115
+
+                                        Amber’s Art’ & Craft’s
+                                          Your street Blvd.
+                                          San Francisco, Ca
+                                            By Fax Only:
+                                            (415)555-0055
+
+                                          Bank References:
+
+             Bank of the People                         International Bank
+               Our street Rd.                                That street Ave.
+               (415)555-1055                                 (415)555-0151
+            Account#0000-654321                        Account#0000-123456
+            Contact Mr. Banker                            Contact Miss. Banker
+
+                                             Landlord:
+                                           Your Landlord
+                                           Nowhere, Ave.
+                                            By Fax only:
+                                           (415)555-3255
+
+                                                                                   130

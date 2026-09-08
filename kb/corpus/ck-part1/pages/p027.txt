@@ -1,0 +1,44 @@
+LETTER 1 — General Error Dispute Use when: Any
+inaccurate information appears on your credit report
+
+INSTRUCTIONS: Replace every [bracketed] item with your actual
+information. Print on plain white paper. Send via USPS Certified
+Mail with Return Receipt Requested. Keep a copy for your records.
+Do NOT sign with an ink pen until you are ready to mail — always
+use your full legal signature.
+
+TEMPLATE
+[Your Full Legal Name]
+[Your Current Mailing Address]
+[City, State, ZIP Code]
+[Date]
+
+Dispute Department
+[Bureau Name: TransUnion / Equifax / Experian]
+[Bureau Mailing Address]
+RE: Formal Dispute of Inaccurate Credit Information
+Account: [Creditor Name] | Account Number: [XXXX-XXXX]
+
+Dear Dispute Department,
+I am writing to formally dispute the following item appearing on my credit
+report, which I received on [Date]. I have identified this information as
+inaccurate and am requesting an immediate investigation under the Fair
+Credit Reporting Act, 15 U.S.C. Section
+1681i.
+
+DISPUTED ITEM DETAILS:
+Creditor Name: [Name of Creditor or Collection Agency]
+Account Number: [Account Number as it appears on the report]
+Reported Balance: $[Amount]
+Reported Status: [Status shown — e.g., 'Late 30 Days' / 'Collection'
+/Charge-Off'] Date of Entry: [Date this item appeared on your report]
+
+REASON FOR DISPUTE:
+[Select and describe your specific reason, for example:]
+'This account does not belong to me. I have no knowledge of this
+account.' — OR — The balance reported is incorrect. My records show this
+account was paid in full on [Date].'— OR — The payment status is
+inaccurate. I paid this account on time and have proof.'
+
+
+

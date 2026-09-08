@@ -1,0 +1,57 @@
+                                                                                                   I N T E R N A L O P E R AT I O N S G U I D E
+
+
+
+P R E M I U M M E M B E R C A N C E L L AT I O N S O P
+
+
+Cancel cleanly. Close the loop.
+Use this procedure whenever a GrantFind Premium member asks to cancel. The goal is to
+stop future billing, apply the correct access outcome, remove the member’s premium tag in
+GHL, and leave a clear record.
+
+
+
+       END STATE                  Stripe is cancelled correctly, the member knows what
+                                  happens next, and the GHL premium tag is removed.
+
+
+
+  1      Before you make a change
+
+   CONFIRM THE REQUEST                                                    DO NOT
+
+         Confirm the member’s full name and account email.                   Delete the user account to cancel billing.
+
+         Confirm they want to cancel Premium—not delete their                Change subscription fields directly in the database.
+         account.
+                                                                             Promise a refund before checking the Stripe payment
+         Check whether they are in a paid subscription or a free             record.
+         trial.                                                              Remove the GHL tag before confirming the correct
+         Record the date, time, and channel of the request.                  contact.
+
+
+
+
+   Identity check: Search by the exact account email. If the member contacts you from a different email, verify enough account
+   details to avoid cancelling the wrong customer.
+
+
+
+
+  2      Know which outcome applies
+
+   Paid Premium member                                                    Premium trial member
+   Cancellation ends the Stripe subscription and the member               Cancellation prevents the trial from converting to a charge.
+   loses Pro access immediately. They should not be                       The member keeps Premium access through the trial
+   charged for a future renewal.                                          end date.
+
+
+
+
+      Important: The paid and trial paths are not interchangeable. Always confirm the status before clicking Cancel.
+
+
+
+
+GRANTFIND · Premium Member Cancellation SOP                                                                                                 01

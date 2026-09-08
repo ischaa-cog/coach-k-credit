@@ -1,0 +1,74 @@
+                                                                                                                                  GHL & CLOSEOUT
+
+
+
+R E M O V E T H E P R E M I U M TA G
+
+Finish in GHL, then document it.
+The Stripe cancellation is not complete operationally until the matching GoHighLevel
+contact is untagged and the outcome is recorded.
+
+
+       REQUIRED                     Remove the member’s active Premium tag from the
+                                    correct GHL contact before closing the request.
+
+
+  5        Untag the member in GHL
+
+               Open GoHighLevel
+       1
+               Go to Contacts and search using the same email confirmed in GrantFind and Stripe.
+
+                  GHL: Contacts → search exact email → open the matching contact
+
+
+               Verify the contact
+       2
+               Match the name and email. If multiple contacts appear, stop and resolve the duplicate before changing any tag.
+
+               Remove the active premium tag
+       3
+               In the contact’s Tags area, remove the tag used for active Premium members.
+
+                  Tag to remove:     Premium / GrantFind Pro active tag
+                  Use the exact active-member tag configured in your GHL account. Do not remove unrelated campaign, lead-source, or customer
+                  tags.
+
+
+
+               Confirm it is gone
+       4
+               Refresh the contact or reopen the Tags panel and verify the active Premium tag no longer appears. Take a screenshot
+               only if your team’s records policy requires it.
+
+
+
+
+  6        Close out the request
+
+   FINAL CHECKLIST                                                                 RECORD THIS NOTE
+
+           Correct member and email confirmed.                                     Cancelled Premium — [date]
+                                                                                   Member: [name]
+           Stripe cancellation status verified.
+                                                                                   Email: [email]
+           Access outcome explained to member.                                     Type: [paid / trial]
+                                                                                   Access ends: [immediately / date]
+           Active Premium tag removed in GHL.
+                                                                                   GHL active Premium tag removed: [yes]
+           Request date and outcome recorded.
+
+
+
+
+      Escalate instead of guessing: Stripe and GrantFind disagree, the account has duplicate GHL contacts, a refund is requested,
+      or the member says they were charged after cancellation. Preserve the details and send the case to the person responsible for
+      billing.
+
+
+This SOP covers cancellation handling. It does not authorize refunds, account deletion, password access, or changes to the GHL tag taxonomy.
+
+
+
+
+GRANTFIND · Premium Member Cancellation SOP                                                                                                    03

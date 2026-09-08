@@ -1,0 +1,38 @@
+
+
+works on a statistical average of numbers between 20 and 90. A 90 represents the
+highest meaning a business pays early or according to terms, and a 20 represents
+the lowest meaning more than 120 days late or delinquent.
+
+      PayQuo Score                   Payment Habit
+             90                      Pay early or according to terms
+             80                      Late up to 10 days
+             70                      Late up to 20 days
+             60                      Late up to 30 days
+             50                      Late up to 60 days
+             40                      Late up to 90 days
+             30                      Late up 120 days
+             20                      More than 120 days late or
+                                     payment is written off
+
+If you have five companies that are reporting to Client Checker on your business,
+and 2 report your company pays early, and one reports you pay 8 days beyond
+terms, and one company reports that your company pays 28 days beyond terms,
+and another company report your company pays 48 days late, your score is
+calculated as: 90 + 90 + 80 + 60 + 50 = 370 / 5 = 74
+
+To get more familiar with the Client Checker business credit report go to their
+website: www.ClientChecker.com/business_credit_reports.htm
+
+BusinessInsight/FDinsight
+
+BusinessInsight formally FDinsight is part of factual data corp., an information
+technology company with headquarters in Loveland, Colorado. FDinsight delivers
+business-to-business information services via electronic commerce.
+
+In order to obtain a credit profile from FDinsight you must be listed with D&B,
+Equifax, or Experian.
+
+
+
+                                                                             112

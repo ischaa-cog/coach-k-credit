@@ -1,0 +1,42 @@
+      for a single pull without a volume account. If pulling all three bureaus was the norm, businesses would be
+      spending potentially $400+ getting credit for a company. On average, most companies will pull two credit
+      reports: DNB and Experian.
+
+      The major difference between the bureaus is the number of businesses each one reports on in its database
+      and the scoring system(s) they use. Each bureau has a separate and unique scoring system. We’ll dive
+      into these systems later, but for now its enough to know unlike the personal credit market where a 700
+      score means the same thing for all three personal credit bureaus, a 225 score from DNB is not the same as
+      a 225 score from Experian Business (225 doesn’t even exist as a potential score from Experian).
+
+      Experian Business and DNB credit reports on a business account for 99% of all the reports I have come
+      across to date. Once a business requests credit from a given merchant or bank the vendor will pull a credit
+      report through one of these bureaus. For example, let’s say a small distribution company called Pacific
+      Distribution sells office products to Bay Area law firms. In an effort to expand business, the shareholders
+      decide to court a big Southern California client and receive a huge order for various office products. Let’s
+      also assume that Pacific Distribution is a very small outfit (3 man show) and is incredibly cash poor.
+      Instead of paying their suppliers in cash which would leave them severely depleted in reserves, the owners
+      rather request a $50,000 revolving credit line from each supplier to help manage cash flows. To date,
+      Pacific has made no such request from any vendor and its business credit profile has never been pulled. If
+      all the suppliers use Experian to pull credit, Experian will be the first one notified that Pacific Distribution
+      is seeking credit and will create a new file for the company. There is little the owners can do to modify
+      the information provided to the credit bureau and cannot proactively create a new file with Experian.
+
+      The reason why this is important is that DNB is the only bureau to date that provides a way for new
+      companies with no pre-existing relationships with suppliers or other vendors to create a credit file. After
+      getting a Tax ID number, the shareholders or officers of that organization can call the DNB proactively
+      and request a DNB number (DUNS number) for their company. They can also input preliminary
+      information such as length of time in business, names of shareholders, sales, employees, etc.
+
+                                                    G u r u Tip
+       The DNB uses a proprietary online credit management system called DNBi. It is by far the most
+      comprehensive database of information on over 100 million companies. Credit Grantors often use
+                      this system to request information about a particular company.
+
+
+      Once a DUNS number is assigned, a new credit file for the company is created and an overall score, called
+      the Paydex, is provided. The Paydex is one of 3 different scores used by DNB to provide credit
+      information on a company. What the Paydex is and its importance is discussed later, but what’s important
+      to note here is that the Paydex is just one of a few different scoring systems from DNB. There are others
+
+
+

@@ -1,0 +1,28 @@
+
+
+I have highlighted a number of aspects of the result page:
+
+   a- After doing a search you can move forward and backward among company names,
+      so in doing research you will start with a chosen search name and simply go through
+      the list.
+
+   b- This is the “Status” of the corporation. ACT= active, INACT=inactive,
+      INACT/UA=Inactive but unavailable. Strangely enough the corporations that we
+      mainly want are the ones that say INACT/UA. The unavailable simply means that no
+      one can currently incorporate another corporation with the same name because it
+      has recently gone inactive. This is vital because in reinstating the corporations, we
+      will be paying a certain fee per year of inactivity and these have the lowest inactive
+      time. You can also research companies that are INACT but when you get experience,
+      you will realize that you will come across many companies that have been inactive
+      for more than 10 years. By only using the INACT/UA corps, this reduces the amount
+      of research that you will have to do before you find a good corp. This does not mean
+      that I do not research INACT corps as well, but I am just giving you the quickest
+      method to success.
+
+   c- These are the names of the corporations. You will have to click each link to view
+      more details on the corporation.
+
+
+
+
+15 |

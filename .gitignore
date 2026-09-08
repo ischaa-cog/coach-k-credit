@@ -1,0 +1,25 @@
+# ── Original source documents — deliberately NOT committed ───────────────────
+# 24 PDFs / 41MB, including third-party copyrighted books (Bill Harris (c)2024,
+# Reginald Ringgold (c)2008, BusinessCreditGuru 2007, Brian Mitchell 2019) and
+# Coach K's own paid products. The extracted text in kb/corpus/ is what the skill
+# actually needs; the originals stay on the machine that has the rights to them.
+kb/sources/
+
+# ── Quarantined material — must never enter version control ──────────────────
+# CPN registration guide, credit sweeps cheat sheet, credit card fraud manual,
+# the tradeline list, the 609 loophole PDF, plus partner IP, client PII, and the
+# competitor recording. kb/manifest.yaml records WHY each was excluded; that
+# audit trail is the thing worth keeping, not the files.
+kb/_quarantine/
+
+# ── Generated, rebuildable from kb/corpus/ via scripts/20_build_index.py ─────
+kb/index/*.sqlite3
+kb/index/*.sqlite3-wal
+kb/index/*.sqlite3-shm
+
+# ── Build scratch ─────────────────────────────────────────────────────────────
+kb/sources/_staging/
+kb/corpus/_extract.log
+**/__pycache__/
+*.pyc
+.DS_Store

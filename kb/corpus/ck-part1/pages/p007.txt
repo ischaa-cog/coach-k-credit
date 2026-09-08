@@ -1,0 +1,41 @@
+CHAPTER 2
+                      FICO Deep Dive — Every
+                      Factor, Every Point
+
+      This chapter breaks down how your FICO score is actually
+      built and why it matters more than other scoring models like
+      VantageScore when it comes to real financial decisions such
+      as mortgages, auto loans, and business funding. While
+      platforms   like   Credit  Karma       often   show    higher
+      VantageScores, lenders typically rely on your true FICO score,
+      which can be significantly lower. Tools like IdentityIQ can
+      provide access to your real FICO scores from all three
+      bureaus.
+
+
+
+       FICO is based on five core factors, and understanding them
+       gives you control over nearly every part of your credit profile.
+
+
+
+      1. Payment History (35%)
+
+      This is the most important factor. Your score is heavily
+      impacted by whether you pay on time. Even a single 30-day
+      late payment can drop your score by 60–110 points. Negative
+      items like collections and charge-offs are even more
+      damaging, but their impact decreases over time with
+      consistent positive behavior.
+
+      The key insight is that recent payment behavior matters more
+      than old mistakes. Building a consistent on-time payment
+      pattern is the fastest way to recovery.
+
+      Key actions include setting autopay, sending goodwill letters
+      for late payments, and understanding that older negative
+      items lose power over time—especially after two years of
+      clean history.
+
+
+

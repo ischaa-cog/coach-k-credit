@@ -1,0 +1,16 @@
+When done correctly, the Lenders name will look like: First Name-Middle name: Last Name
+Beneficiary. Again, if its not submitted like this, it will not be accepted, and your bills will not
+be paid!
+Now fill out the rest of the Payer Information with the info it ask’s of you.
+DO NOT CHECK LAST FILING!!!!!!
+Once Done, Click Add
+If you do it right, the information you just added will be added to the Lender’s Box.
+
+
+Now Click The Add Button in the Borrower’s Box.
+
+
+
+
+Lenders TIN: Your Social Security Number
+Borrower’s TIN: EIN or TIN of the Business/Company you will be paying

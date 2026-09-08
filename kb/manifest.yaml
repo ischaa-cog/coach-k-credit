@@ -1,0 +1,653 @@
+# Coach K knowledge base — SOURCE OF TRUTH
+# Every file in kb/sources/ must appear here or the build fails (30_verify.py).
+#
+# tier:       1 = Coach K's own material (authority + voice). 2 = third-party support.
+# domain:     credit | grants | crosscutting | staff
+# canonize:   may this source seed a canon note? (no = search-only, long tail)
+# volatility: stable | volatile (vendor lists, bank criteria, approval amounts)
+# audience:   member | staff
+# fraud_screen: run a page-level grep for CPN/sweep/609/stated-income before indexing
+
+meta:
+  pdftotext_version: "25.09.0"     # pin: re-extraction with another build must be reviewed
+  extracted_with: "pdftotext -layout -enc UTF-8"
+  staged_on: "2026-09-07"
+
+# ---------------------------------------------------------------- TIER 1: COACH K
+docs:
+  ck-part1:
+    source_file: "Ebook Part 1 Credit Secrets (Master Blueprint).pdf"
+    title: "Credit Secrets Master Blueprint, Part 1: Personal Credit Repair & Dispute Mastery"
+    author: "Coach K (Jekwenta Primm)"
+    tier: 1
+    domain: credit
+    content_date: "2026"
+    volatility: stable
+    audience: member
+    canonize: yes
+    pages: 95
+    license: owned
+    boilerplate_extra:
+      - '^Credit Secrets Master Blueprint \| Part 1'
+    notes: >
+      Tier-1 authority and the voice source. Ch.22 supplies the refusal doctrine
+      ("EIN/CPN fraud", "promises to remove accurate negative information (illegal)").
+      Ch.6 + Ch.17 are the tier-1 business-credit spine. Part 2 (business credit)
+      is announced but does not exist yet.
+    # Hand-verified. NEVER regex-derive: p26 is printed "CHAPTER 8" but is Ch.10,
+    # and Ch.19's TOC entry (p78) disagrees with its body marker (p77).
+    chapters:
+      1:  [5, 6]
+      2:  [7, 9]
+      3:  [10, 11]
+      4:  [12, 13]
+      5:  [14, 14]
+      6:  [15, 17]
+      7:  [18, 21]
+      8:  [22, 23]
+      9:  [24, 25]
+      10: [26, 50]    # body header misprints this as "CHAPTER 8" — source defect
+      11: [51, 52]
+      12: [53, 55]
+      13: [56, 58]
+      14: [59, 62]
+      15: [63, 64]
+      16: [65, 68]
+      17: [69, 72]
+      18: [73, 76]
+      19: [77, 81]    # TOC says 78; body marker on 77
+      20: [82, 84]
+      21: [85, 88]
+      22: [89, 95]
+
+# ------------------------------------------------- TIER 2: PERSONAL CREDIT REPAIR
+  t2-credit-repair-kit-master:
+    source_file: "991272649-Credit-Repair-Kit-Master-Guide.pdf"
+    title: "Credit Repair Kit Master Guide"
+    author: "unattributed third party"
+    tier: 2
+    domain: credit
+    content_date: "unknown"
+    volatility: stable
+    audience: member
+    canonize: yes
+    pages: 66
+    license: third-party
+    fraud_screen: yes
+
+  t2-credit-millionaire-2024:
+    source_file: "886939343-Credit-Millionaire-Book-Bill-Harris.pdf"
+    exclude_pages: [73, 80, 81]     # shelf corp purchased to qualify for "stated income" loans
+    title: "Credit Millionaire"
+    author: "Bill Harris"
+    tier: 2
+    domain: credit
+    content_date: "2024"
+    volatility: stable
+    audience: member
+    canonize: yes
+    pages: 84
+    license: third-party-copyright
+    fraud_screen: yes
+
+  t2-credit-score-secrets:
+    source_file: "448712990-CreditScoreSecrets.pdf"
+    title: "Credit Score Secrets"
+    author: "unattributed third party"
+    tier: 2
+    domain: credit
+    content_date: "unknown"
+    volatility: stable
+    audience: member
+    canonize: yes
+    pages: 73
+    license: third-party
+    fraud_screen: yes
+
+  t2-credit-secrets-mitchell-2019:
+    source_file: "482951667-Attachment-1585378135-3-docx.docx"
+    title: "Credit Secrets: The Blueprint on How to Raise Your Credit Score"
+    author: "Brian Mitchell"
+    tier: 2
+    domain: credit
+    content_date: "2019"
+    volatility: stable
+    audience: member
+    canonize: yes
+    pagination: synthetic
+    license: third-party-copyright
+    fraud_screen: yes
+    notes: >
+      TITLE COLLISION HAZARD. "Credit Secrets" by Brian Mitchell is NOT Coach K's
+      "Credit Secrets Master Blueprint". The author suffix in the doc-id and title
+      is mandatory; 30_verify.py fails on any bare "Credit Secrets" tier-2 citation.
+
+  t2-erasing-bad-credit:
+    source_file: "44855706-Erasing-Bad-Credit-Manual-0402.pdf"
+    title: "Erasing Bad Credit Manual"
+    author: "unattributed third party"
+    tier: 2
+    domain: credit
+    content_date: "unknown"
+    volatility: stable
+    audience: member
+    canonize: no
+    pages: 91
+    license: third-party
+    fraud_screen: reviewed-clear
+    notes: >
+      Screened 2026-09-07: the section 609 hits are verbatim FCRA statutory text
+      (610 conditions of disclosure, which cross-references 609), not the deletion
+      myth. Legitimate. Kept canonize:no on quality grounds only.
+
+  t2-hidden-credit-repair-secrets:
+    source_file: "57913765-Hidden-Credit-Repair-Secrets (1).pdf"
+    title: "Hidden Credit Repair Secrets"
+    author: "unattributed third party"
+    tier: 2
+    domain: credit
+    content_date: "unknown"
+    volatility: stable
+    audience: member
+    canonize: no
+    pages: 19
+    license: third-party
+    fraud_screen: yes
+
+  t2-40-credit-repair-secrets:
+    source_file: "929381-40CreditRepairSecrets.pdf"
+    title: "40 Credit Repair Secrets"
+    author: "unattributed third party"
+    tier: 2
+    domain: credit
+    content_date: "unknown"
+    volatility: stable
+    audience: member
+    canonize: yes
+    pages: 8
+    license: third-party
+    fraud_screen: yes
+
+  t2-720-score:
+    source_file: "23626680-Your-Steps-to-a-720-Credit-Score.doc"
+    title: "Your Steps to a 720 Credit Score"
+    author: "unattributed third party"
+    tier: 2
+    domain: credit
+    content_date: "unknown"
+    volatility: stable
+    audience: member
+    canonize: yes
+    pagination: synthetic
+    license: third-party
+    fraud_screen: yes
+
+  t2-credit-repair-packet:
+    source_file: "38869543-Credit-Repair-Packet.doc"
+    title: "Credit Repair Packet"
+    author: "unattributed third party"
+    tier: 2
+    domain: credit
+    content_date: "unknown"
+    volatility: stable
+    audience: member
+    canonize: no
+    pagination: synthetic
+    license: third-party
+    fraud_screen: yes
+
+  t2-credit-repair-kit:
+    source_file: "488213577-CreditRepairKit (1).pdf"
+    title: "Credit Repair Kit"
+    author: "unattributed third party"
+    tier: 2
+    domain: credit
+    content_date: "unknown"
+    volatility: stable
+    audience: member
+    canonize: no
+    pages: 28
+    license: third-party
+    fraud_screen: yes
+
+  t2-instant-credit-repair:
+    source_file: "407845107-INSTANT-CREDIT-REPAIR.pdf"
+    title: "Instant Credit Repair"
+    author: "unattributed third party"
+    tier: 2
+    domain: credit
+    content_date: "unknown"
+    volatility: stable
+    audience: member
+    canonize: no
+    pages: 53
+    license: third-party
+    fraud_screen: reviewed-clear
+    notes: >
+      Screened 2026-09-07: its section 609 use is CORRECT — a letter requesting
+      disclosure of the file behind a credit denial under 15 USC 1681g. Not the
+      deletion loophole. Kept canonize:no on quality grounds only.
+
+  t2-decoding-creditworthiness:
+    source_file: "964979633-Decoding-Creditworthiness-a-Comprehensive-Guide-to-Credit-Rating-Reports.pdf"
+    title: "Decoding Creditworthiness: A Comprehensive Guide to Credit Rating Reports"
+    author: "unattributed third party"
+    tier: 2
+    domain: credit
+    content_date: "unknown"
+    volatility: stable
+    audience: member
+    canonize: yes
+    pages: 10
+    license: third-party
+
+  t2-get-free-right-now:
+    source_file: "886833220-GET-FREE-RIGHT-NOW-FOREVER.pdf"
+    title: "Get Free Right Now Forever"
+    author: "Raashid Qyidar P El"
+    tier: 2
+    domain: credit
+    content_date: "unknown"
+    volatility: stable
+    audience: member
+    canonize: no
+    pages: 5
+    license: third-party
+    fraud_screen: yes
+    notes: "Sovereign-citizen framing suspected from author styling — screen before use."
+
+  t2-skyptheboss:
+    source_file: "898833782-6-1-New-Final-Skyptheboss-eBook.pdf"
+    title: "Skyptheboss eBook"
+    author: "Skyptheboss"
+    tier: 2
+    domain: credit
+    content_date: "unknown"
+    volatility: stable
+    audience: member
+    canonize: no
+    pages: 19
+    license: third-party
+    fraud_screen: yes
+
+  t2-instant-credit-card-approval:
+    source_file: "39959086-Instant-Credit-Card-Approval (1).docx"
+    title: "Instant Credit Card Approval"
+    author: "unattributed third party"
+    tier: 2
+    domain: credit
+    content_date: "unknown"
+    volatility: stable
+    audience: member
+    canonize: no
+    pagination: synthetic
+    license: third-party
+    fraud_screen: yes
+
+# ------------------------------------------------------- TIER 2: BUSINESS CREDIT
+  t2-business-credit-guru-2007:
+    source_file: "48832279-BusinessCreditGuru.pdf"
+    title: "The Business Credit Guru"
+    author: "thebusinesscreditguru.com"
+    tier: 2
+    domain: credit
+    content_date: "2007"
+    volatility: volatile
+    audience: member
+    canonize: no
+    pages: 550
+    license: third-party-copyright
+    boilerplate_extra:
+      - '^Copyright 2007'
+      - 'thebusinesscreditguru\.com'
+    notes: >
+      550pp, 2007. Largest single source in the corpus and the oldest. Search-only,
+      every retrieved claim must be date-stamped. Do NOT canonize.
+
+  t2-billionaires-blueprint-2008:
+    source_file: "31192240-The-Billionaire-s-Business-Blueprint.pdf"
+    title: "The Billionaire's Business Blueprint"
+    author: "Reginald Ringgold"
+    tier: 2
+    domain: credit
+    content_date: "2008"
+    volatility: volatile
+    audience: member
+    canonize: no
+    pages: 336
+    license: third-party-copyright
+    boilerplate_extra:
+      - "THE BILLIONAIRE'S BUSINESS BLUEPRINT"
+      - 'Copyright . 2008 Reginald Ringgold'
+    notes: "336pp, 2008. Search-only, date-stamped. Do NOT canonize."
+
+  t2-business-credit-ebook:
+    source_file: "39151112-Business-Credit-eBook.pdf"
+    title: "Business Credit eBook"
+    author: "unattributed third party"
+    tier: 2
+    domain: credit
+    content_date: "unknown"
+    volatility: volatile
+    audience: member
+    canonize: yes
+    pages: 14
+    license: third-party
+
+  t2-6-secrets-business-credit:
+    source_file: "446523268-The-6-Secrets-to-Build-Business-Credit.pdf"
+    title: "The 6 Secrets to Build Business Credit"
+    author: "unattributed third party"
+    tier: 2
+    domain: credit
+    content_date: "unknown"
+    volatility: volatile
+    audience: member
+    canonize: yes
+    pages: 8
+    license: third-party
+
+  t2-ein-business-credit:
+    source_file: "447081268-How-to-Get-EIN-Business-Credit-pdf.pdf"
+    title: "How to Get EIN Business Credit"
+    author: "unattributed third party"
+    tier: 2
+    domain: credit
+    content_date: "unknown"
+    volatility: volatile
+    audience: member
+    canonize: yes
+    pages: 9
+    license: third-party
+    fraud_screen: yes
+
+  t2-ein-not-linked-ssn-2019:
+    source_file: "435995180-How-to-Build-Credit-for-Your-EIN-That-is-Not-Linked-to-Your-SSN-2019.pdf"
+    title: "How to Build Credit for Your EIN That Is Not Linked to Your SSN"
+    author: "unattributed third party"
+    tier: 2
+    domain: credit
+    content_date: "2019"
+    volatility: volatile
+    audience: member
+    canonize: no
+    pages: 11
+    license: third-party
+    fraud_screen: yes
+    notes: >
+      DUAL-READING HAZARD. The legitimate reading is real business credit (Ch.17
+      territory). The same phrase is also CPN-fraud marketing, and Coach K's own
+      Ch.22 pairs them as "EIN/CPN fraud". Search-only; any answer touching this
+      must carry the correction from canon/policy/refusals-and-corrections.md.
+
+  t2-12-credit-lines-2019:
+    source_file: "465892854-12-Credit-Lines-and-Cards-You-Can-Get-for-Your-Business-Free-Report-New-edition-2019-1 (1).pdf"
+    title: "12 Credit Lines and Cards You Can Get for Your Business"
+    author: "unattributed third party"
+    tier: 2
+    domain: credit
+    content_date: "2019"
+    volatility: volatile
+    audience: member
+    canonize: no
+    pages: 9
+    license: third-party
+    notes: "2019 vendor/card list — names and criteria are stale. Date-stamp on every use."
+
+  t2-50-business-credit-info:
+    source_file: "472597867-50-BusinessCreditInfo (1).pdf"
+    title: "50 Business Credit Info"
+    author: "unattributed third party"
+    tier: 2
+    domain: credit
+    content_date: "unknown"
+    volatility: volatile
+    audience: member
+    canonize: no
+    pages: 8
+    license: third-party
+
+  t2-shelf-corp-secrets:
+    source_file: "70953670-Shelf-Corp-Secrets-1.pdf"
+    title: "Shelf Corp Secrets"
+    author: "unattributed third party"
+    tier: 2
+    domain: credit
+    content_date: "unknown"
+    volatility: stable
+    audience: member
+    canonize: no
+    pages: 38
+    license: third-party
+    fraud_screen: yes
+    notes: >
+      GREY AREA. Shelf corporations are legal; they are also a standard vehicle for
+      application fraud (misrepresenting business age to underwriters). Search-only.
+      Position stated in docs/EDITORIAL-POLICY.md.
+
+  t2-unlimited-funding:
+    source_file: "160813083-Unlimited-Funding.pdf"
+    title: "Unlimited Funding"
+    author: "unattributed third party"
+    tier: 2
+    domain: credit
+    content_date: "unknown"
+    volatility: volatile
+    audience: member
+    canonize: no
+    pages: 46
+    license: third-party
+    fraud_screen: yes
+    notes: "'Unlimited' framing is a hype marker — screen for stated-income/AU-tradeline advice."
+
+# ------------------------------------------- TIER 1: COACH K (Google Drive)
+# Pulled by file id via the MCP connector; see docs/DRIVE-MANIFEST.md.
+# All synthetic pagination -- Drive text has no true page boundaries.
+  ck-grant-guide:
+    source_file: "ck-grant-guide.txt"
+    title: "The Grant Writing Guide for New Business Owners"
+    author: "Coach K (Kwenta Primm)"
+    tier: 1
+    domain: grants
+    content_date: "2024"
+    volatility: stable
+    audience: member
+    canonize: yes
+    pagination: synthetic
+    license: owned
+    notes: "Best single grants asset. 6 chapters, 9 proposal components, template, glossary, source directory."
+
+  ck-grant-cheatsheet:
+    source_file: "ck-grant-cheatsheet.txt"
+    title: "GrantFind Grant Proposal Cheat Sheet"
+    author: "Coach K / GrantFind"
+    tier: 1
+    domain: grants
+    content_date: "2026-09"
+    volatility: stable
+    audience: member
+    canonize: yes
+    pagination: synthetic
+    license: owned
+    notes: "Densest practical source. Carries its own disclaimer: educational guidance, not a guarantee of funding."
+
+  ck-grant-masterclass-wb:
+    source_file: "ck-grant-masterclass-wb.txt"
+    title: "Grant Mastery Masterclass (Workbook)"
+    author: "Coach K"
+    tier: 1
+    domain: grants
+    content_date: "2024"
+    volatility: stable
+    audience: member
+    canonize: yes
+    pagination: synthetic
+    license: owned
+    notes: >
+      CONFABULATION HAZARD. Sections 2 and 4 are fill-in-the-blank exercises whose blanks
+      are NOT filled in in the source ("there are ___ billion dollars available in grants",
+      "in 2022 only ___% of grant funding went to small business owners", "a website Coach K
+      recommends is ___"). The bot must never invent these figures. Grant-source
+      recommendations come from ck-grant-guide instead.
+
+  ck-grant-proposal-template:
+    source_file: "ck-grant-proposal-template.txt"
+    title: "Grant Proposal Template (member fill-in)"
+    author: "Coach K"
+    tier: 1
+    domain: grants
+    content_date: "2026"
+    volatility: stable
+    audience: member
+    canonize: yes
+    pagination: synthetic
+    license: owned
+    notes: "The template members are actually given. Cover letter, LOI, and 14 further sections."
+
+  ck-grant-writer-curriculum:
+    source_file: "ck-grant-writer-curriculum.txt"
+    title: "How to Become a Grant Writer -- course curriculum"
+    author: "Coach K"
+    tier: 1
+    domain: grants
+    content_date: "2024-08"
+    volatility: stable
+    audience: member
+    canonize: yes
+    pagination: synthetic
+    license: owned
+    notes: "Module 0 + 10 modules. Coach K's own structure -- used as the grants topic taxonomy."
+
+  ck-get-government-ready:
+    source_file: "ck-get-government-ready.txt"
+    title: "Get Government Ready (SAM.gov / DUNS / NAICS checklist)"
+    author: "Coach K"
+    tier: 1
+    domain: grants
+    content_date: "2024"
+    volatility: volatile
+    audience: member
+    canonize: yes
+    pagination: synthetic
+    license: owned
+    notes: >
+      Only SAM.gov/DUNS teaching asset. Written for the courier industry -- the NAICS naming
+      tip is industry-specific. Recommends Google Domains (now Squarespace) and promotes a
+      past event. Registration sequence itself is sound.
+
+  ck-fbl-2025-notes:
+    source_file: "ck-fbl-2025-notes.txt"
+    title: "Funding Blueprint Live 2025 -- Coach K session notes"
+    author: "Coach K (notes by Circle of Greatness)"
+    tier: 1
+    domain: grants
+    content_date: "2025"
+    volatility: volatile
+    audience: member
+    canonize: yes
+    pagination: synthetic
+    license: owned
+    notes: >
+      PAGE-SCOPED AT SOURCE: only Coach K's page 1 was ingested. Pages 2-8 are partner
+      speakers (Kenneth Smith, Sonia Lewis, Siedah Garrett, Marcus Y. Rosier, Women in
+      Wealth panel, Blake Nathan, Nehemiah Davis) and are excluded IP. Source of the REAL
+      framework and the grant vault checklist. Contains a dated named grant and a dated
+      Walmart figure -- never quote either as current.
+
+  ck-transcript-access-granted:
+    source_file: "ck-transcript-access-granted.txt"
+    title: "Access Granted: Coach K on Funding Strategies for Entrepreneurs"
+    author: "Coach K"
+    tier: 1
+    domain: crosscutting
+    content_date: "2025"
+    volatility: stable
+    audience: member
+    canonize: yes
+    pagination: synthetic
+    license: owned
+    notes: >
+      PRIMARY VOICE REFERENCE -- solo monologue, clean prose, no interviewer. Also the
+      tier-1 source for "grant funding has no personal credit check", the 680-700 threshold
+      for 0%/12-month business cards, revenue-based funding cautions, and EIN-only/no-PG
+      funding via Nav.
+
+# ------------------------------------------------------------- VOLATILE LISTS
+  list-bank-funding:
+    source_file: "1007604317-Bank-Funding-List-1.pdf"
+    title: "Bank Funding List"
+    author: "unattributed third party"
+    tier: 2
+    domain: credit
+    content_date: "unknown"
+    volatility: volatile
+    audience: member
+    canonize: yes            # canon/credit/lists/bank-funding.md, date-stamped
+    pages: 4
+    license: third-party
+    link_payload: yes        # 58 URL annotations; pdftotext text alone is near-useless
+    notes: >
+      ALREADY PARTLY WRONG. Names BlockFi (bankrupt) and Goldman/Marcus (exited
+      consumer cards). Never emit a bank-name-to-minimum-score table from this.
+      Carries a third-party dtduniversity.com watermark — strip before member-facing use.
+
+# ----------------------------------------------------------------------- STAFF
+  staff-cancellation-sop:
+    source_file: "premium-member-cancellation-sop.pdf"
+    title: "Premium Member Cancellation SOP"
+    author: "Circle of Greatness (internal)"
+    tier: 1
+    domain: staff
+    content_date: "2026-09"
+    volatility: stable
+    audience: staff          # -> staff.sqlite3 only, NEVER member-facing
+    canonize: yes
+    pages: 3
+    license: owned
+    notes: >
+      Internal operations. Names Stripe and GoHighLevel procedures. Containment is
+      physical: separate index, audience gate, and a Phase 2 build that hard-fails
+      if this doc-id appears in output.
+
+# ------------------------------------------------- QUARANTINE (never extracted)
+# User decision: excluded from the answer corpus. The bot names why and redirects
+# instead of refusing silently. See canon/policy/refusals-and-corrections.md.
+quarantine:
+  x-cpn-registration:
+    source_file: "427596781-How-to-Register-Your-CPN.pdf"
+    reason: "Identity/loan fraud. No agency issues CPNs; sold numbers are fabricated or stolen SSNs."
+  x-credit-sweeps-cheatsheet:
+    source_file: "467052955-Expert-Credit-Sweeps-Cheat-Sheet-Public-View.pdf"
+    reason: "False identity-theft reports — false police report + false statement to a federal agency."
+  x-credit-card-frauds:
+    source_file: "429830134-Credit-Card-Frauds.pdf"
+    reason: "Card fraud. Also an image scan (236 chars/page) with no OCR available."
+  x-section-609-loophole:
+    source_file: "133197114-Section-609-of-the-Fair-Credit-Reporting-Act-Loophole.pdf"
+    reason: >
+      False, not illegal. FCRA 609 is a disclosure right with no deletion power.
+      c.2011 lead magnet citing 2010 RealtyTrac data and HAMP.
+  x-7-days-better-credit:
+    source_file: "62722813-7-Days-to-Better-Credit-105k (1).pdf"
+    reason: >
+      Quarantined on review 2026-09-07 (not in the original five). A third of this
+      15-page document is a chapter titled "How to Obtain an EIN/TIN (AKA) CPN
+      Number", built on the standard pretext that "the Government and Credit
+      Bureaus have nothing to do with each other". This is precisely what Coach K's
+      own Ch.22 names as "EIN/CPN fraud". The document's premise is the fraud, so
+      page-level exclusion is not sufficient.
+
+  x-tradeline-list:
+    source_file: "913392606-Tradeline-List.pdf"
+    reason: >
+      Coaches falsified rent verification ("someone (Family or friend) that can verify
+      the info for you") and CPN use ("don't use any cards that have your SSN attached
+      to it"). Sells junk catalog cards as tradelines.
+
+market_intel:
+  intel-competitor-pitch:
+    source_file: "2026-04-13-convo-Business_Funding_Mentorship_Sales_Pitch.txt"
+    reason: >
+      A rival program's sales webinar (Solomon Woods / Woods Wealth Strategies,
+      "Fund Your Business Summit"), captured from a team member's session. Not
+      doctrine. Contains a private address. Kept as market intel, outside the KB.

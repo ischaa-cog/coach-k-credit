@@ -1,0 +1,47 @@
+
+
+Commercial Credit Score
+
+The US Commercial Credit Score predicts the likelihood of a firm paying in a delinquent manner
+(90 + days past terms) during the next 12 months, based on the information in D&B's file. The
+score was calculated using statistically valid models derived from D&B's extensive data files.
+
+
+
+Commercial Credit Score
+ Commercial Credit Score   Credit Score Percentile         Credit Score Class    Incidence of Delinquency
+        536-670                    91-100                          1                       2.5%
+        493-535                    71-90                           2                       4.8%
+        423-492                    31-70                           3                      12.9%
+        376-422                    11-30                           4                      24.2%
+        101-375                     1-10                           5                      58.8%
+
+
+
+
+"0" generally denotes indication of open bankruptcy or out of business at the location. "0"may
+also denote higher risk situations.
+
+Incidence of Delinquent Pa yment Assignment Table
+         Minimum Score                      Maximum Score                 Incidence of Delinquent Payment
+               96                                    100                               2.1%
+               91                                    95                                2.9%
+               86                                    90                                3.6%
+               81                                    85                                4.4%
+               76                                    80                                5.2%
+               71                                    75                                6.1%
+               66                                    70                                7.3%
+               61                                    65                                8.7%
+               56                                    60                               10.5%
+               51                                    55                               12.2%
+               46                                    50                               13.9%
+               41                                    45                               15.5%
+               36                                    40                               17.2%
+               31                                    35                               18.4%
+               26                                    30                               20.2%
+               21                                    25                               22.5%
+               16                                    20                               24.6%
+               11                                    15                               29.6%
+
+
+                                                                                                     317

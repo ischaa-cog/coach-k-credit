@@ -1,0 +1,52 @@
+Revolving Accounts — The Broader Category
+
+Revolving credit is the CATEGORY that includes credit cards,
+lines of credit, and home equity lines of credit (HELOCs).
+What makes them revolving is the cycle: you borrow, you
+repay, the credit is available again. This is different from
+installment accounts (car loans, mortgages, student loans)
+which have a fixed repayment schedule with a defined end
+date.
+
+
+  ACCOUNT                                                        AFFECTS
+                   CATEGORY               EXAMPLES
+    TYPE                                                       UTILIZATION?
+
+
+ Credit Card      Revolving         Visa, Mastercard,         YES — heavily
+                                    Discover, Store Cards
+
+ Charge           Charge (Non-      Amex Green, Gold,         Generally NO
+ Card             revolving)        Platinum
+
+ Line of Credit   Revolving         Personal LOC,             YES
+                                    Business LOC, HELOC
+
+ Car Loan         Installment       Auto financing            NO
+
+
+ Mortgage         Installment       30-year fixed, FHA,       NO
+                                    VA
+
+ Student          Installment       Federal & Private         NO
+ Loan
+
+ Credit           Installment       CreditStrong, Self        NO — builds mix
+ Builder Loan
+
+
+
+
+The ideal credit profile for maximum FICO scoring has
+BOTH revolving accounts (credit cards/lines of credit) AND
+installment accounts (a car loan, mortgage, or credit
+builder loan).
+
+Having only one type limits your score potential regardless
+of your payment history. Credit mix accounts for 10% of
+your FICO score — and that 10% is easy to earn with the
+right strategy.
+
+
+

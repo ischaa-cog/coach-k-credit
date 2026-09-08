@@ -1,0 +1,51 @@
+The Rate-Shopping Exception — FICO's Built-In
+Protection
+
+FICO understands that smart consumers shop around for the
+best rates. So they built in a Rate-Shopping Window. Multiple
+mortgage, auto loan, or student loan inquiries within: 14–45
+days (depending on FICO version) Count as ONE single inquiry.
+
+This means you can apply with:
+   5 mortgage lenders, 4 auto lenders, and multiple student
+loan lenders…and your score only sees ONE inquiry.
+
+Pro Tip:
+Always rate shop within a 2-week window to be safe.
+
+Soft Inquiries (Soft Pulls) — These NEVER Affect Your Score
+
+Soft inquiries happen all the time without your knowledge —
+and none of them affect your score. While they appear on
+your report, they are visible only to YOU, not to lenders
+reviewing your file.
+
+
+
+                                                                  VISIBLE TO
+  SOFT PULL TRIGGER                WHO INITIATES IT
+                                                                  LENDERS?
+
+ Checking your own          You, through any monitoring          NO
+ report                     app
+
+ Pre-qualification          Credit card companies                NO
+ offers                     checking eligibility
+
+ Employer                   Your employer (with                  NO
+ background check           permission)
+
+ Insurance rate             Insurance company                    NO
+ check
+
+ Existing creditor          Your current lender                  NO
+ review                     reviewing your account
+
+ Pre-screened credit        Lenders sending you credit           NO
+ offers                     card offers in mail
+
+ Credit monitoring          IdentityIQ, Credit Karma,
+                                                                 NO
+ services                   NAV, etc.
+
+

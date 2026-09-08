@@ -1,0 +1,44 @@
+
+
+      5) The next item "months reviewed" indicates the period of time that
+          the Equifax records cover. For example, if the account was
+          reviewed for 12 months, the credit data reflects only one year of
+          payment history.
+
+
+      6) The next column called "date of last activity" is one of the most
+          important parts of the trade line. The "date of last activity" is the
+          starting point from where the bureaus measure the seven years
+          that information may remain on your credit report. The date of
+          last activity is properly measured from the date when an
+          account went to collection, was charged to profit and loss (write-
+          off) or became delinquent.
+
+
+      7) The "high credit" column gives you the highest amount of credit
+          you have used on the account. This amount may be higher
+          than your credit limit.
+
+
+      8) The column shown as "terms" indicates the monthly payment on
+          the account. For an installment debt, the terms indicates the
+          fixed monthly payment that you agreed to in your contract. For
+          a revolving debt, like gasoline cards, Visa or MasterCard, the
+          amount is the minimum monthly payment. Most revolving credit
+          cards have monthly payments approximating 1/36th of the total
+          debt.
+
+
+      9) The next item shown as "balance" provides you with the amount
+          outstanding on the account. This may not reflect the actual debt
+          as of the date of the report, but indicates the balance
+          outstanding as of the date the information was provided to the
+          credit bureau.
+
+
+      10) The "past due" column shows the total amount of your account
+         balance that is delinquent, if any, as of the time the information
+         was reported to the bureau.
+                                      Page 27
+
+eBusinesspower 2000,2001                                www.ErasingBadCredit.com

@@ -1,0 +1,44 @@
+
+
+      11) The next column "STATUS" is the most important information in
+         the credit report. This item shows the actual rating of the entire
+         trade line. To begin, the status item will start with a letter. The
+         letter "R" stands for revolving, the letter "I" stands for
+         installment, the letter "U" indicates unspecified and "O" stands
+         for open. After the letter is a number indicating the manner of
+         payment for the account. The number "1" indicates timely
+         payment. The number"2" indicates that the account was paid
+         late but not more than 60 days past due. The number "3"
+         indicates that the account was paid late more than 60 days but
+         fewer than 90 days. The number "4" indicates that the account
+         was paid late more than 90 days but fewer than 120 days. The
+         number "5" indicates that the account was paid but more than
+         120 days late.
+
+
+         An account status with the number "8" indicates some form of
+         repossession activity. The number "9" stands for some form of
+         bad debt; either a charge off to profit and loss by the creditor or
+         referred for collection.
+
+
+         Reading the status codes from 1 to 9 provides you with a scale
+         of the relative detriment shown by each item. Starting with "1",
+         the best rating any item can have, going to "9", the absolute
+         worst rating available for any item, you can judge just how good
+         or bad any particular trade line is rated.
+
+
+      12) The final column "date reported" gives you the date on which
+         the information for the trade line was provided to Equifax.
+
+
+      13) Moving to the next line of the item, you will find the payment
+         status of the account. The indication "closed account" indicates
+         that the account is no longer open and that your relationship
+         with this account is terminated.
+
+
+                                     Page 28
+
+eBusinesspower 2000,2001                              www.ErasingBadCredit.com

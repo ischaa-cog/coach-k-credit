@@ -1,0 +1,43 @@
+
+
+What is stock?
+
+Stock certificates represent the amount of money a shareholder has decided to
+invest in the corporation. Owning stock entitles a shareholder to certain rights such
+as voting rights and dividends. At formation, a company decides how much stock
+will be issued, and how many different classes of shares it will have (common,
+preferred, etc.). This formation is contained in the articles of Incorporation.
+
+Generally, common stock entitles the owner to vote for directors and receive
+dividends. However, owning common stock does not guarantee that dividends will
+be paid. The Board of Directors must look at the Corporation's financial situation
+and decide whether it can legally authorize dividends to be paid. If so, dividend
+amounts are split among all common share and distributed to the shareholders.
+
+Most small corporations do not have preferred stock. Preferred stock usually
+entitles the owner to receive a certain amount of dividends each year, provided the
+corporation can legally authorize that payment. Preferred shareholders are paid
+before common shareholders.
+
+What is Par Value?
+
+Par Value is the minimum amount for which a share of stock may be sold. The
+Board of Directors sets the actual price of the company's shares at its own
+discretion. Corporations will often set the Par Value of its own shares at a low
+number, such as one cent. This however, does not mean that the shares are worth
+only one cent- it only means that they can never be sold for less than that amount.
+
+What do the different classes of stock represent?
+
+The different classes of stock determine how dividends will be paid, and how
+much money will be paid for each share of stock in the corporation. Each share
+certificate will be marked with the amount of par (the minimum amount of money
+that must be paid for the share). Share certificates may also be marked as no par,
+with no minimum amount being paid for the share. This designation must be made
+at the outset of incorporating and provided for in the Articles of Incorporation.
+Additionally, common stock represents the class of shareholders who shall be paid
+a dividend last, after the preferred shareholders are paid first (if any exist). If there
+are no preferred shareholders, then the dividend amounts are split equally among
+
+
+                                                                                     275

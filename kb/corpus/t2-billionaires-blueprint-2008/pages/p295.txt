@@ -1,0 +1,39 @@
+
+
+Negative Payment Comments/Information - Negative Payments consist of
+unsatisfactory, bad debt, suit-filed, non-sufficient funds, credit refused, placed for
+collection or repossession trade experiences.
+Net Worth - The net worth of a business. "E" indicates figures are estimates
+provided by the owners, partners or officers of the company; "F" means figures
+were taken from a financial statement. This element offers another view of the
+company's financial size.
+Operation Section - Found in the Business Information and Comprehensive
+Reports, this section provides background information on the business operations
+of a company. This may include the identity of a parent company, the number of
+accounts and geographic scope of the business, typical selling terms, and whether
+the firm owns or leases its facilities. The names and locations of branch operations
+and subsidiary may also be identified in this section.
+Other Payment Categories - Miscellaneous indicators of a firm's payment habits,
+including the highest dollar amounts owed; the highest dollar amounts past due;
+number and dollar value of cash payments and placed for collection experiences.
+Parent - A parent is a corporation that owns more than 50 percent of another
+corporation. The parent company may also be a subsidiary of another corporation.
+If the parent also has branches/divisions, then it is also a headquarters. Parents can
+have both direct and indirect subsidiaries, indirect subsidiaries being those that
+have another company in between the subsidiary and the parent.
+PAYDEX® Score - The PAYDEX Score is D&B's unique dollar-weighted
+numerical indicator of how a firm paid its bills over the past year, based on trade
+experiences reported to D&B by various vendors. The D&B PAYDEX Score
+ranges from 1 to 100, with higher scores indicating better payment performance.
+Payment Details Section - Found in the Business Information and Comprehensive
+Reports, the Payment Detail Section displays a listing of recent payments reported
+to D&B. Each line (up to 80) provides the most recent information secured through
+company trade tapes and other D&B data collection methods. It's important to note
+that an unusually large number of transactions during a single month or time period
+may indicate a seasonal purchasing pattern. The following manners of payment
+appear most frequently in this section:
+   • Antic - payments are received prior to date of invoice (Anticipated).
+   • Disc - payments are received within trade discount period (Discount).
+   • Ppt - payments are received within terms granted (Prompt).
+   • Slow - payments are beyond vendor's terms. For example, "Slow 30" means
+                                                                                  295

@@ -1,0 +1,40 @@
+
+
+
+        In the United States, Social Security numbers are used more commonly as a
+        means of identification. The Internet has made the transmission of personal
+        information easy and, at times, less secure. Online retailers store our credit card
+        information and contact information in databases we assume to be secured.
+
+        Marketing databases not only contain personal information, but they aggregate
+        information on our spending habits as well as contact information. But
+        potentially nefarious employees of these companies could have access to that
+        information. They can then sell it online in chat rooms where criminals meet to
+        swap information.
+
+        Even in the days of e-mail and instant messaging, the postal mail can also play a
+        surprising role in identity theft. Checks can be stolen from the outgoing mail.
+        Credit card companies bombard their customers and potential customers with
+        pre-approved offers that need very little personal information to complete.
+
+        Credit card issuers also send what they call "courtesy checks" to customers who
+        can use them to make charges on a card. Many experts consider them an
+        invitation to identity theft.
+
+        One of the increasingly common ways that criminals try to obtain personal
+        information is by using what is called a "phishing attack." If you have e-mail, the
+        chances are good someone has tried to get you to bite.
+
+                                       Phishing combines a criminal attempt at obtaining
+                                       personal information with another plague of the Internet
+                                       age — spam. Potential victims receive an e-mail from
+                                       what appears to a bank, an online payment company like
+                                       PayPal, or a retailer like eBay or Amazon.com. The
+                                       message is usually sent using HTML e-mail and, when
+                                       opened, uses company logos and symbols to make it
+                                       appear to be legitimate.
+
+
+
+
+                                                                                                  57

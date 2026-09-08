@@ -1,0 +1,41 @@
+
+
+
+Often times this section will include your businesses net worth, income statement
+and historical financials that is if you provide a D&B with that information. If you
+have not provided D&B with your financials then D&B gathers the information on
+the report from what they gather from your creditors. So there's a good chance if
+you have not provided them with your financials that it might just contain your
+credit information. Although sending your financials to D&B will most definitely
+increase your rating, it will also make it a semi-public record. D&B uses statistical
+probabilities to classify businesses into three different score categories:
+
+   1. Commercial credit score ranges from 101-670, 101 displays the highest
+      probability of a severely delinquent payment (90 + days past terms). A 670
+      reflects the lowest probability of delinquency. The risk of default doubles
+      with each 40 points. For instance a company with a 340 scores twice as
+      likely to default on a loan and a company with a 380 score.
+   2. Credit score percentile ranges from 1-100%, 1% represents the highest
+      probability of a severely delinquent payment, and 100% represents the
+      lowest. These ranges represent where the company ranks in comparison to
+      all the other businesses in D&B's database.
+   3. Credit score class allows lending institutions to quickly assess the
+      probability of a business going into default, 1 represents the lowest risk, and
+      a 5 represents the highest risk.
+
+Here is the D&B Commercial Credit Score Table:
+
+Commercial Credit Score
+Commercial             Credit        Score                        Incidence        of
+                                             Credit Score Class
+Credit Score           Percentile                                 Delinquency
+536-670                91-100                1                    2.5%
+493-535                71-90                 2                    4.8%
+423-492                31-70                 3                    12.9%
+376-422                11-30                 4                    24.2%
+101-375                1-10                  5                    58.8%
+
+Commercial credit scores are not available for companies that:
+
+
+                                                                                 108

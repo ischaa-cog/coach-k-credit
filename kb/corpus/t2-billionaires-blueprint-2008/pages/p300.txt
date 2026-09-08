@@ -1,0 +1,41 @@
+
+
+filings, changes in ownership, acquisitions and other events. Information reported
+in this section may also include announcements on the release of earnings reports.
+Special Events may help explain unusual company trends. For example, a change
+in ownership could have an impact on manner of payment, or decreased production
+may reflect an unexpected interruption in factory operations (i.e., labor strike or
+fire).
+Standard Industrial Code (SIC) - The SIC code is a standardized numbering
+system developed by the Federal Government that classifies business
+establishments according to their industries. It is particularly helpful when you're
+looking to segment markets, analyze customer relationships, and conduct general
+business research. SIC codes divide all major economic activity into ten major
+divisions. Businesses are then further classified within each division. The first two
+digits in the code represent a company's major industry affiliation and its
+subdivision. For example, the first two digits in "Manufacturing," one of the ten
+major SIC divisions, range from 20 to 39. The remaining digits break down the
+divisions into specific activities and "sub-industries." If more than one SIC Code is
+listed, the first one is the company's primary line of business, with others
+comprising at least 10 percent of the company's revenue. A maximum of six SIC’s
+will be listed for a company. Details can be found in the Operations Section of the
+Business Information Report.
+Started (Control Date) - Indicates the year the company was started or present
+management took control.
+Statement Update Section - This section includes information D&B has obtained
+directly from the company since our last full interview with the principals of the
+business. It may include pertinent information such as updated financial data,
+commentary on recent business trends or operating details.
+Subsidiary - A subsidiary is a corporation in which more than 50% of its voting
+stock is owned by another corporation and will have a different legal business
+name from its parent company. A subsidiary must be a single location, a
+headquarters, or a parent. A subsidiary may have branches and/or subsidiaries of
+its own.
+Suit - A proceeding filed by a plaintiff(s) against a defendant(s) in a court of law,
+in which the plaintiff(s) seeks monetary or non-monetary relief.
+Summary Analysis Section - This section displays the current D&B Rating, when
+it was assigned and why. Additional content may include rating changes that have
+occurred during the past year so you can spot trends and evaluate the stability of a
+firm over time.
+
+                                                                                 300

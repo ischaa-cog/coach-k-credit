@@ -1,0 +1,55 @@
+
+
+
+
+                                     Appendix
+
+Example Manufacturing Co. Inc. Balance Sheet
+
+     As of December 31,                               2006      2005
+
+
+
+
+Assets
+
+Current Assets
+
+         1. Cash                                  $3,000      $2,000
+
+         2. Marketable Securities                  8,000      12,000
+
+         3. Accounts Receivable                   42,000      33,000
+
+         4. Inventories                          157,000     150,000
+
+         5. Prepaid Expenses                       2,000       3,000
+
+ 6. Total Current Assets                         212,000     200,000
+
+
+
+ 7. Plant, Property, and Equipment              1,067,000    983,000
+
+ 8. Less Accumulated Depreciation                450,000     417,000
+
+ 9. Net PPE                                      617,000     567,000
+
+10. Investments                                  267,000     217,000
+
+11. Other Assets                                  16,000      17,000
+
+12. Total Assets                                1,112,000 1,000,000
+
+
+
+Liabilities
+
+Current Liabilities
+
+     13. Accounts Payable                         38,000      42,000
+
+     14. Notes Payable                            80,000      67,000
+
+
+                                                                       302

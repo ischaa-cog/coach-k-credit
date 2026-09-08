@@ -1,0 +1,45 @@
+
+TRANS UNION
+
+
+      1) Reading from left to right; the first item of information reported
+         under "subscriber name" is the creditor or supplier of
+         information.
+
+
+      2) The next item is the Trans Union code for the subscriber. This is
+          an internal reference for Trans Union and does not need to be
+          included in your disputes.
+
+
+      3) The next item "date opened" is the date on which the account
+          was opened. This date may be different than your records due
+          to refinancing, creditor assignment of accounts, company
+          mergers or other creditor based activity.
+
+
+      4) The "high credit" column gives you the highest amount of credit
+          you have used on the account. This amount may be higher
+          than your credit limit.
+
+
+      5) The next column provides the "date verified". This data is the
+          date on which Trans Union either received the data from the
+          creditor or the date on which Trans Union verified the data with
+          the creditor. The letter appearing immediately after the "date
+          verified" will indicate the meaning of the date. For example, the
+          letter "A" means that the data was entered in your file through
+          an automated transfer. This is simply the monthly reporting of
+          the account information by computer. The letter "V" means that
+          the data was verified as accurate with the creditor on that date.
+          The letter "M" indicates that the data was manually frozen on
+          that date.
+
+
+      6) The next item shown as "balance owing" provides you with the
+         amount outstanding on the account. This may not reflect the
+         actual debt as of the date of the report, but indicates the
+         balance outstanding as of the date the information was provided
+                                      Page 30
+
+eBusinesspower 2000,2001                                www.ErasingBadCredit.com

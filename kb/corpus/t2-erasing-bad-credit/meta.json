@@ -1,0 +1,30 @@
+{
+  "doc_id": "t2-erasing-bad-credit",
+  "title": "Erasing Bad Credit Manual",
+  "author": "unattributed third party",
+  "tier": 2,
+  "domain": "credit",
+  "content_date": "unknown",
+  "volatility": "stable",
+  "audience": "member",
+  "canonize": false,
+  "license": "third-party",
+  "source_file": "44855706-Erasing-Bad-Credit-Manual-0402.pdf",
+  "pagination": "pdf-page",
+  "page_prefix": "p",
+  "pages_extracted": 91,
+  "pages_in_source": 91,
+  "chars": 154935,
+  "chars_per_page": 1702.6,
+  "boilerplate_lines_dropped": 1,
+  "links": 10,
+  "fraud_screen_hits": {
+    "s609": [
+      85,
+      86
+    ]
+  },
+  "fraud_screen_status": "reviewed-clear",
+  "chapters": null,
+  "notes": "Screened 2026-09-07: the section 609 hits are verbatim FCRA statutory text (610 conditions of disclosure, which cross-references 609), not the deletion myth. Legitimate. Kept canonize:no on quality grounds only.\n"
+}

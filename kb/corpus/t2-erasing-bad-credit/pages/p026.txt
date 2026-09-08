@@ -1,0 +1,44 @@
+
+   •   You owe a certain amount of money.
+   •   You have to pay back a set amount of that money each month and
+       this set amount does not change.
+   •   You also have a certain amount of time to pay off the loan.
+
+
+
+EQUIFAX
+
+
+       1) All information appearing above the line reading "credit history"
+          is identification information. Moving below the "credit history"
+          line is the substantive information about your credit.
+
+
+       2) Read each trade line from left to right. The first item is the
+          "company name". This indicates who the creditor is that is
+          reporting data about your to Equifax. The next item is the
+          account number assigned by the creditor to the account. This
+          number may not be the same as the account number in your
+          records due to scrambling for privacy/security reasons or
+          creditor added numbers to segregate files by creditor office or
+          region.
+
+
+       3) The next item is "whose account". The code in this entry
+           corresponds to your involvement with the account. For example
+           the letter "S" indicates that you are an authorized user of the
+           account; the letter "J" indicates that this is a joint account and
+           that you share liability on the debt; the letter "I" shows that it is
+           your individual account and that you are solely liable for its
+           repayment; the letter "T" indicates that your involvement with
+           the account is terminated and "U" shows that the bureaus does
+           not know your relationship with the account.
+
+
+       4) The next column "Date Opened" is the date on which the
+           account was opened. This date may be different than your
+           records due to refinancing, creditor assignment of accounts,
+           company mergers or other creditor based activity.
+                                       Page 26
+
+eBusinesspower 2000,2001                                 www.ErasingBadCredit.com

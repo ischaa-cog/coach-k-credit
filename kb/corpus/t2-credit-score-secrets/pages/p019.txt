@@ -1,0 +1,43 @@
+        Chapter            2Simple
+        Credit Score Secrets: - FICO           and
+                                   Tricks To Scoring     You
+                                                     750 Or Higher
+
+
+
+        Back in the 1960’s, a company called Fair Isaac devised a unique system to
+        determine the credit worthiness of people who apply for loans. Through a
+        complicated mathematical computation (too complicated for this author!), they
+        were able to study a person’s credit history and assign them a number that would
+        represent how likely it was that they would be able to repay a loan they were
+        applying for.
+
+        Fair Isaac sparked a revolution by pioneering credit risk scoring for the financial
+        services industry. This new approach to lending enabled financial institutions to
+        improve their business performance and expand consumers’ access to credit.
+        Today Fair Isaac’s FICO score is widely recognized as the industry standard for
+        lenders.
+
+        The FICO score condenses a borrower’s credit history into a single number based
+        on past credit history. Fair, Isaac & Co. and the credit bureaus do not reveal how
+        these scores are computed. The Federal Trade Commission has ruled this to be
+        acceptable. The real truth is that even if we did know, we probably couldn’t
+        calculate it ourselves anyway. Unless, of course, you happen to be a
+        mathematical genius!
+
+        Credit scores are calculated by using scoring models and mathemat ical tables
+        that assign points for different pieces of information which best predict future
+        credit performance. Developing these models involves studying how thousands,
+        even millions, of people have used credit.
+
+        Score-model developers find predictive factors in the data that have proven to
+        indicate future credit performance. Models can be developed from different
+        sources of data. Credit-bureau models are developed from information in
+        consumer credit-bureau reports.
+        Credit scores analyze a borrower's credit history considering numerous factors
+        such as:
+
+
+
+
+                                                                                              19

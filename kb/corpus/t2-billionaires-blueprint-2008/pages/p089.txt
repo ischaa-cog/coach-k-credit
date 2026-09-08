@@ -1,0 +1,43 @@
+
+
+    Duns Profile Example (Business Information Report)
+
+
+     ATTN: John Doe                          Report Printed:
+BUSINESS SUMMARY
+
+
+G&M Manufacturing Company, Inc
+123 ABC STREET
+SAN FRANCISCO, CA 94110
+
+
+Do not confuse with other G&M           D-U-N-S® Number: 80-773-4378
+companies, this is a fictitious company
+report used for demonstration purposes. SIC:              2752
+This is a headquarters location.
+Branch (es) or division(s) exist.
+                                        Line of business: COMMERCIAL
+                                                          PRINTING
+Telephone:              650 555-5555
+
+                                         D&B Rating:           --
+
+Manager:                JANE DOE         D&B PAYDEX®:
+
+                                         12-Month D&B PAYDEX: 36
+                                         When weighted by dollar amount, payments
+Year started:           1955             to suppliers average 72 days beyond terms.
+
+
+Employs:                110 (100 here)
+                                         Based on trade collected over last 12 months.
+Financial statement
+date:               DEC 31 2000
+
+
+Sales F:                $19,683,736
+
+
+
+                                                                               89

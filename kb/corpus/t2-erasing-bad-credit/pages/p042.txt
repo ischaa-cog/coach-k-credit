@@ -1,0 +1,46 @@
+
+
+8 - Repossession. This account indicates a debt held with a security
+    interest. Where repossession is shown, it means that the creditor took
+    the property securing the debt back. If the trade line indicates
+    Voluntary Repossession it means that the consumer returned the
+    security interest to the creditor before it had to be taken back by the
+    creditor.
+
+
+9 - Seriously delinquent/bad debt. This notation shows that the account
+   loan has not been repaid in a long time or that the debt is considered
+   un-collectible and is a bad debt.
+
+
+R - Revolving Account. This notes that the account has or had a variable
+    balance and payment structure. Most Visa and MasterCard are open-
+    end credit cards, which allow one to pay a minimum or any amount
+    above that level without a fixed dollar amount each month.
+
+
+I - Installment Account. This means that the account has a contractually
+     fixed payment structure with a specific fixed dollar amount due (usually
+     each month) and a particular due date. Examples of common
+     installment accounts are mortgages, auto loans, furniture, appliances,
+     boats, etc...
+
+
+Joint Account - Account made with two contractual parties. Both parties
+assume ultimate liability for the repayment of the obligation.
+
+
+Authorized User - Indicates that the consumer is entitled to use the
+credit card of another person. An authorized user does not incur any
+obligation to repay the debt nor assume any contractual obligation to
+make payments on the account.
+
+
+Profit and Loss Write-off – Is a Bad debt where the creditor has
+accepted the amount as a loss of the amount against the profit of the
+company.
+
+
+                                      Page 42
+
+eBusinesspower 2000,2001                               www.ErasingBadCredit.com

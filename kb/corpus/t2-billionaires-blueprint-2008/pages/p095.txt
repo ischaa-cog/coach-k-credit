@@ -1,0 +1,44 @@
+
+
+Links open in a new browser window.
+
+27520000       Commercial printing,
+               lithographic
+
+D&B PAYDEX
+
+
+The D&B PAYDEX is a unique, dollar weighted indicator of payment performance
+based on up to 266 payment experiences as reported to D&B by trade references.
+3-Month D&B PAYDEX: 23                     12-Month D&B PAYDEX: 36
+When weighted by dollar amount,            When weighted by dollar amount,
+payments to suppliers average 111 days     payments to suppliers average 72 days
+beyond terms.                              beyond terms.
+
+
+
+Based on trade collected over last 3       Based on trade collected over last 12
+months.                                    months.
+                                            When dollar amounts are not
+                                            considered, then approximately 13% of
+                                            the company's payments are within
+                                            terms.
+
+PAYMENT SUMMARY
+
+
+The Payment Summary section reflects payment information in D&B's file as of the
+date of this report.
+
+Below is an overview of the company's dollar-weighted payments, segmented by its
+suppliers' primary industries:
+
+                        Total Total    Largest   Within Days Slow
+                        Rcv'd Dollar   High      Terms <31 31-60 61-90
+                        (#) Amts       Credit    (%) 90>
+                              ($)      ($)              (%)
+
+
+Top industries:
+
+                                                                             95

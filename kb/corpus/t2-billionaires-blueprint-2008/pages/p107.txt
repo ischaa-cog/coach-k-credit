@@ -1,0 +1,38 @@
+
+
+
+Factor #2 The financial stress score: offers a more precise measure of the level of
+risk then the class and percentile.
+
+Factor#3 The financial stress national percentile: reflects the relative ranking of
+a company among all other companies in D&B's database
+
+Factor #4 Incidence of financial stress: is based on historical data in D&B's
+database. The incidence of financial stress shows the percentage of companies in a
+given class that discontinued operations over the past year with lost to creditors.
+The national average represents the national failure and is provided for
+comparative purposes.
+
+Here is the D&B financial Stress Score Table:
+
+Financial Stress Score
+Financial      Stress Financial   Stress Percentile       Score Incidence        of
+Class                 Score Range        Range                  Financial Stress
+1                     1377-1875          21-100                 0.49%
+2                      1353-1376           11-20                 1.37%
+3                      1303-1352           5-10                  3.73%
+4                      1225-1302           2-4                   8.30%
+5                      1001-1224           1                     35.80%
+
+Commercial Credit Score
+
+D&B's commercial credit score predicts the likelihood of your business paying in a
+severely delinquent manner (90 + days past terms) during the next 12 months,
+based on the information in D&B's database. It's a brief overview of your
+businesses character and financial capacity. It focuses on how your company pays
+its bills and treats its credit and debt obligations compared with other companies in
+your industry. A severely delinquent business is defined as a business with at least
+25% of its payments slow and at least 10% of its payments 90 days or more past
+due.
+
+                                                                                 107

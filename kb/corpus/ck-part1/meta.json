@@ -1,0 +1,114 @@
+{
+  "doc_id": "ck-part1",
+  "title": "Credit Secrets Master Blueprint, Part 1: Personal Credit Repair & Dispute Mastery",
+  "author": "Coach K (Jekwenta Primm)",
+  "tier": 1,
+  "domain": "credit",
+  "content_date": "2026",
+  "volatility": "stable",
+  "audience": "member",
+  "canonize": true,
+  "license": "owned",
+  "source_file": "Ebook Part 1 Credit Secrets (Master Blueprint).pdf",
+  "pagination": "pdf-page",
+  "page_prefix": "p",
+  "pages_extracted": 95,
+  "pages_in_source": 95,
+  "chars": 136356,
+  "chars_per_page": 1435.3,
+  "boilerplate_lines_dropped": 1,
+  "links": 25,
+  "fraud_screen_hits": {},
+  "fraud_screen_status": "clean",
+  "chapters": {
+    "1": [
+      5,
+      6
+    ],
+    "2": [
+      7,
+      9
+    ],
+    "3": [
+      10,
+      11
+    ],
+    "4": [
+      12,
+      13
+    ],
+    "5": [
+      14,
+      14
+    ],
+    "6": [
+      15,
+      17
+    ],
+    "7": [
+      18,
+      21
+    ],
+    "8": [
+      22,
+      23
+    ],
+    "9": [
+      24,
+      25
+    ],
+    "10": [
+      26,
+      50
+    ],
+    "11": [
+      51,
+      52
+    ],
+    "12": [
+      53,
+      55
+    ],
+    "13": [
+      56,
+      58
+    ],
+    "14": [
+      59,
+      62
+    ],
+    "15": [
+      63,
+      64
+    ],
+    "16": [
+      65,
+      68
+    ],
+    "17": [
+      69,
+      72
+    ],
+    "18": [
+      73,
+      76
+    ],
+    "19": [
+      77,
+      81
+    ],
+    "20": [
+      82,
+      84
+    ],
+    "21": [
+      85,
+      88
+    ],
+    "22": [
+      89,
+      95
+    ]
+  },
+  "notes": "Tier-1 authority and the voice source. Ch.22 supplies the refusal doctrine (\"EIN/CPN fraud\", \"promises to remove accurate negative information (illegal)\"). Ch.6 + Ch.17 are the tier-1 business-credit spine. Part 2 (business credit) is announced but does not exist yet.\n"
+}

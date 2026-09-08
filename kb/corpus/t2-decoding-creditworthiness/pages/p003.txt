@@ -1,0 +1,13 @@
+Understanding Credit Rating Scales
+Credit ratings are standardized to provide a universal understanding of risk. These scales typically range
+from the highest quality, indicating very low risk, to default, signifying a failure to meet obligations.
+
+
+  AAA / A1: Very Low Risk              B / C: Higher Risk                    D: Default
+  Entities with these ratings          These ratings indicate a              A 'D' rating signifies that the
+  possess exceptional financial        speculative grade, suggesting         entity has already failed to
+  strength and stability, making       a higher probability of default.      meet its financial
+  them highly reliable for debt        Lenders and investors                 commitments, indicating a
+  repayment. They represent the        approach these entities with          state of default. This is the
+  gold standard in                     increased caution and often           lowest point on the credit
+  creditworthiness.                    demand higher returns.                rating spectrum.

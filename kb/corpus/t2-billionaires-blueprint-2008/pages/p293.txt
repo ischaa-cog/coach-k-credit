@@ -1,0 +1,39 @@
+
+
+Financial Stress Score - Found in the Comprehensive Report, this score ranges
+from 1,001 to 1,875 and is the raw output of the Financial Stress Scoring Model
+scorecards. 1,001 represents the highest risk and 1,875 represents the lowest risk of
+business failure. Each Financial Stress Score within the range (1,001-1,875) has a
+related probability of business failure within a 12-month period. This score is also
+often referred to as the Raw Score.
+Financial Stress Summary - The company's Financial Stress Class is given as a 1
+to 5 rating and as a percentile ranking to determine the likelihood of business
+experiencing financial stress as compared to the national average and the
+company's industry.
+Headquarters- A headquarters is a business location that has branches or divisions
+reporting to it, and is legally responsible for those branches or divisions. If the
+headquarters is more than 50 percent owned by another corporation, it will also be
+a subsidiary. If it owns more than 50 percent of another corporation, then it is also
+a parent.
+History Indicator - Found in the Business Information and Comprehensive
+Reports, the History Indicator is designated as:
+   • Clear - Certain minimal information necessary for D&B rating consideration
+     is contained in the report. It also means the report is free of negative
+     information which could cause the selection of other History captions or
+     designation as a potential higher-risk case.
+   • Incomplete - D&B's file does not contain sufficient information about the
+     background of the business and its significant principals to fully assess risk.
+   • Management - D&B's file contains certain unfavorable current or historical
+     information on one or more significant principals associated with this
+     company.
+   • Business - D&B's file contains certain unfavorable current or historical
+     information on this company.
+History Section - Found in the Business Information and Comprehensive Reports,
+the History Section typically includes details on the company's history, including:
+   • Incorporation details, par value of shares and ownership information.
+   • Background information on management, such as the educational and career
+     history of the company principals.
+   • Related companies, including identification of parent, affiliates, subsidiaries
+     and/or branches worldwide.
+
+                                                                                 293

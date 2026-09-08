@@ -1,0 +1,58 @@
+
+
+          $164,000 x 100 = 25.9%
+
+          --------
+
+          $633,000
+
+Cash
+
+                        +Marketable Securities
+
+       Quick Ratio = +Accounts Receivable
+
+                      --------------------------
+
+                         Current Liabilities
+
+
+
+
+Example: The quick ratio for Example Manufacturing Company Inc. for 2006 is:
+
+           $3,000 + $8,000 + $42,000          = 0.45
+
+          ----------------------------
+
+                     $118,000
+
+
+Current Ratio =       Current Assets
+
+                          ----------------
+
+                        Current Liabilities
+
+
+
+
+Example: The current ratio for Example Manufacturing Company Inc. for 2006 is:
+
+          $212,000 = 1.8
+
+          --------
+
+          $118,000
+
+
+Debt Ratio =            Total Liabilities
+
+                         ---------------------------
+
+                         Total Liabilities + Capital
+
+
+
+
+                                                                                 306

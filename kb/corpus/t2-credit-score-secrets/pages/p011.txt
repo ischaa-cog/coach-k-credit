@@ -1,0 +1,38 @@
+
+
+
+        The following information is for real estate, installment, revolving and other type
+        records:
+
+                 Creditor: The official account name. This name may be different than you
+                 expect if your account is managed by a larger financial corporation.
+                 Account Number: This is an identifying number for your account.
+                 Typically, this would be a credit card number for a credit card account or a
+                 loan identification number for a mortgage.
+                     o A portion of the number is hidden for security reasons. A partial
+                       account number is all that is needed to file a dispute about the
+                       record.
+                 Condition: This is the account’s status as open or closed, according to the
+                 most recent update from your creditor.
+                 Balance: The amount you presently owe on the account based on the last
+                 reported activity. Very recent activities may not yet have appeared in the
+                 bureaus’ computer system so this balance may be a few days out-of-date.
+                 Type: The account's specific type. Some common types are real estate,
+                 automobile, educational and credit card accounts.
+                 Pay Status: The account's payment status, according to the most recent
+                 update from your creditor.
+                                                                       For each account, the report also
+                                                                       displays an illustrated payment
+                                                                       history over the last 24 months.
+                                                                       There will be a key at the top of
+                                                                       this section describes each
+                                                                       payment history symbol and what
+                                                                       it indicates for your account.
+                                                                       Green boxes marked "OK" show
+                                                                       that your payment was made on
+                                                                       time.
+
+
+
+
+                                                                                                           11

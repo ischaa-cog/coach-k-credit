@@ -1,0 +1,39 @@
+
+           the account number, if any, provided by the source the
+           information.
+
+
+       3) The "description" column provides you with information about the
+           opening date of the account. This date may be different than
+           your records due to refinancing, creditor assignment of
+           accounts, company mergers or other creditor based activity.
+
+
+The "description" column next gives you the repayment terms. For an
+installment debt, the terms indicate the fixed monthly payment that you
+agreed to in your contract. For a revolving debt, like gasoline cards, Visa
+or D, the amount is the minimum monthly payment. Most revolving credit
+cards have monthly payments approximating 1/36th of the total debt.
+
+
+The next item in "description" identifies your relationship to the account.
+This will specify if you are individually liable, partially liable under a joint
+account or other relationship to the account.
+
+
+Immediately after the description of your relationship to the account is the
+high credit or balance information.
+
+
+       4) The next column "status/payments" is the most important
+           information in the credit report. Instead of reporting your
+           account on the 1 through 9 scale like Equifax and Trans Union,
+           TRW describes in narrative form what has happened with the
+           account and the current status of the account.
+
+
+
+
+                                         Page 35
+
+eBusinesspower 2000,2001                                   www.ErasingBadCredit.com

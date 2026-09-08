@@ -1,0 +1,37 @@
+
+
+
+                 Foreclosure: A record indicating that a mortgaged property has been
+                 taken over by the creditor because the borrower has defaulted on the loan.
+
+                 Garnishment: A record indicating a court order to withhold some or all of
+                 a person's wages to repay a debt owed to a creditor.
+
+        The summary information listed for each of these types of public records can vary.
+        Here are some definitions of common record categories:
+
+                 Type: The type of record. For example a tax lien, bankruptcy, garnishment,
+                 or judgment.
+                 Status: Current status of the record. For example released, filed or
+                 dismissed.
+                 Date Filed/Reported: Date when the record was initially filed or created.
+                 How Filed: The role that you played in the public record. Usually the
+                 record is filed either individually or jointly.
+                 Reference Number: Identifying number for the record.
+                 Released/Closing Date: Date when the record was closed, released or
+                 judgment was awarded.
+                 Court: The court or legal agency that has jurisdiction over the record.
+                 Plaintiff: The plaintiff in the case of a legal judgment.
+                 Amount: Dollar amount of the lien or judgment.
+                 Remarks: Notes regarding the public record as reported to the credit
+                 bureaus.
+        If the public record is a bankruptcy, three other fields will be visible.
+                 Liability: The amount the court found you to be legally responsible to
+                 repay.
+                 Exempt Amount: The dollar amount claimed against you that the court
+                 has decided you are not legally responsible for.
+
+
+
+
+                                                                                              15

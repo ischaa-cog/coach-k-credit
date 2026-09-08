@@ -1,0 +1,46 @@
+
+TRW - BLUE/RED CODED
+
+
+      1) The TRW report with blue and red ink is coded in the same
+          manner as Trans Union and Equifax. Reading from left to right,
+          the first column is "account profile". This field is divided into
+          three sections listed as "pos", "non" and "neg".
+
+
+         Any reference in the "pos" section indicates that the information
+         for that trade line is positive in nature. An indication of "non"
+         indicates that the trade line is neutral or not rated. The
+         designation "neg" indicates that the trade line is negative or
+         derogatory in nature.
+
+
+      2) The next item "subscriber/court name" is the creditor or supplier
+         of information.
+
+
+      3) The next item is the TRW code for the subscriber. This is an
+          internal reference for TRW and does not need to be included in
+          your disputes.
+
+
+      4) The next item is "assn. code". The code in this entry
+          corresponds to your involvement with the account. For example
+          the number "3" indicates that you are an authorized user of the
+          account; the number"2" indicates that this is a joint account and
+          that you share liability on the debt and the number "1" shows
+          that it is your individual account and that you are solely liable for
+          its repayment.
+
+
+      5) The "amount" column gives you the highest amount of credit you
+          have used on the account. This amount may be higher than
+          your credit limit.
+
+
+      6) The next item shown as "balance" provides you with the amount
+          outstanding on the account. This may not reflect the actual debt
+          as of the date of the report, but indicates the balance
+                                      Page 36
+
+eBusinesspower 2000,2001                                www.ErasingBadCredit.com

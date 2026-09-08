@@ -1,0 +1,41 @@
+
+
+ER (Employee Range) Ratings apply to certain lines of business that do not lend
+themselves to classification under the D&B Rating system. Instead, we assign
+these types of businesses an Employee Range symbol based on the number of
+people employed. No other significance should be attached to this symbol.
+
+For example, a rating of "ER7" means there are between five and nine employees
+in the company. "ERN" should not be interpreted negatively. It simply means we
+do not have information indicating how many people are employed at this firm.
+
+The D&B Rating field in a report may also display the following designations
+when certain conditions are present:
+The '- -' Symbol: This represents the absence of a D&B Rating and should not be
+interpreted as indicating that credit should be denied. It means that the information
+available to D&B does not permit us to classify the company within our Rating
+Key and that further inquiry should be made before reaching a credit decision.
+Some reasons for using the "- -" symbol include: deficit net worth, bankruptcy
+proceedings, lack of sufficient payment information or incomplete history
+indicator.
+DS (DUNS Support): This indicates that the information available to D&B does
+not permit us to classify the company within our Rating Key. When ordering these
+reports, an investigation can be performed and results sent to you at your request
+for an additional fee.
+INV (Investigation Being Conducted): When an "INV" appears, it means an
+investigation is being conducted on this business to get the most current details.
+NQ (Not Quoted): This is generally assigned when a business has been confirmed
+as no longer active at the location, or when D & B is unable to confirm active
+operations. It may also appear on some branch reports, when the branch is located
+in the same city as the headquarters.
+Risk of Late Payment - Risk of Late Payment is an element in the Credit
+eValuator and SelfMonitor 2.0 Reports, which predicts the risk that a company will
+pay on time versus the risk of other companies in the same industry. The risk dial
+() shows the potential risk of late or delinquent payment. The dial - from lower risk
+to higher risk - shows the risk that a company will pay in a severely delinquent
+manner (90+ days past terms) relative to other businesses in the D&B database.
+Higher risk (red) indicates that a company is more likely to pay severely beyond
+terms, and lower risk (green) indicates that a company has a low likelihood of
+paying in a severely delinquent manner. The rating is based on a number of credit
+
+                                                                                 298

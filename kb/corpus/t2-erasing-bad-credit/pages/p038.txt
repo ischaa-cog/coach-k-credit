@@ -1,0 +1,44 @@
+
+         became delinquent.
+
+
+      11) The next item "date opened" is the date on which the account
+         was opened. This date may be different than your records due
+         to refinancing, creditor assignment of accounts, company
+         mergers or other creditor based activity.
+
+
+      12) The column "type" gives you the type of obligation most
+         appropriately describing this account. This line will indicate
+         whether the account is secured, a charge card, auto, home,
+         etc...
+
+
+      13) The "terms" column next gives you the repayment terms. For
+         an installment debt, the term indicates the fixed monthly
+         payment that you agreed to in your contract. For a revolving
+         debt, like gasoline cards, Visa or MasterCard, the amount is the
+         minimum monthly payment. Most revolving credit cards have
+         monthly payments approximating 1136th of the total debt.
+
+
+      14) The next column provides the "balance date". This data is the
+         date on which TRW either received the data from the creditor o-
+         [r the date on which TRW verified the data with the creditor.
+
+
+      15) The "amount past due" column shows the total amount of your
+         account balance that is delinquent, if any, as of the time the
+         information was reported to the bureau.
+
+
+
+REMEMBER: DATA CHANGES CONSTANTLY. IF IT IS REPORTED IN
+A CERTAIN WAY TODAY, IT MAY BE DIFFERENT TOMORROW!l!
+
+
+
+
+                                     Page 38
+
+eBusinesspower 2000,2001                              www.ErasingBadCredit.com

@@ -1,0 +1,43 @@
+
+
+will be an individual business for the corporation. In the event of a lawsuit, or
+bankruptcy, you will have the ability to dissolve the DBA without jeopardizing the
+corporation. The divisions can use the same tax id as the parent corporation and
+can also be added as a division to the parent corporation’s bank account, but
+eventually each DBA will have its own federal tax id number, separate bank
+account and business license.
+
+Here is how it works:
+
+Go to the county recorder’s office and file a D.B.A Fictitious Business name
+statement under the parent corporation. Then complete steps 2-7 with the exception
+of 4 & 5 in the 7 steps in chapter 7. The reason you are going to skip step 1 is
+because since you are setting up a division you can use the parent corporation’s
+EIN thus eliminating the need to file a separate tax return, and eliminating the
+implementation of step 5 in the 7 steps. You also can use the history and corporate
+status of the parent corporation without having to pay extra franchise tax fees.
+Repeat step 2 with the exception of the physical address unless you have a separate
+address for the division. The reason you want to repeat step 2 is because a division
+that serves another business purpose separate from the parent corporation would
+not fail to have a separate web address and email address with matching domain
+name. Once you have completed step 6 which is apply for Duns Number then you
+can move on to step 7 which is apply for trades. This means that with the corporate
+credit that you have established with the parent corporation if the creditors allow it,
+request additional cards for your divisions and sub divisions etc. then apply for
+new corporate credit. Most trade creditors will extend additional credit to divisions.
+Cash Creditors do not extend credit to divisions. In order to obtain cash credit and
+an Experian Smart Business report with a division you must transform it into an
+entity by completing step one with the exception of the D.B.A. This means
+incorporate the division and apply for an EIN. This must be done because cash
+lines and credit cards only report to Experian and unlike D&B who issues a Duns
+number to each location of the business Experian uses your businesses Tax ID. The
+reason you are going to skip step 4 in the 7 steps is because you can add divisions
+to your business bank account thus avoiding opening a new account for the
+division that would lack the history needed to obtain larger lines of corporate
+credit.
+
+(Warning divisions that are sued while connected to your parent corporation
+can jeopardize the parent corporation’s assets. To avoid this from happing
+when facing a lawsuit you can separate and isolate the division away from the
+
+                                                                                   218

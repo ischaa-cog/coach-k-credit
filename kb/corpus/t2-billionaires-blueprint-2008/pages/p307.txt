@@ -1,0 +1,57 @@
+
+
+Example: The debt ratio for Example Manufacturing Company Inc. for 2006 is:
+
+             $195,000         x 100 = 17.5%
+
+            ----------
+
+            $1,112,000
+
+Average Accounts
+
+      Collection Period Ratio =         Receivable
+
+                                       ------------------    x 365
+
+                                          Net Sales
+
+
+Example: The collection period ratio for Example Manufacturing Company Inc. for 2006 is:
+
+         ($42,000 + $33,000)/2 x 365 = 22 days
+
+         -------------------
+
+            $633,000
+
+
+Days to Sell                 Average Inventory
+
+         Inventory Ratio         = ----------------------    x 365
+
+                                     Cost of Goods Sold
+
+
+Example: The days to sell inventory ratio for Example Manufacturing Company Inc. for 2006 is:
+
+         $157,000 + $150,000)/2 x 365 = 156 days
+
+         --------------------
+
+               $358,000
+
+
+Days Purchases              Average Accounts Payable
+
+      in Accounts       =     -------------------------------        x 365
+
+      Payable Ratio                Cost of Goods Sold
+
+                                 + Change in Inventory
+
+
+Example: The day’s purchase in accounts payable ratio for Example Manufacturing Company
+Inc. for 2006 is:
+
+                                                                                           307

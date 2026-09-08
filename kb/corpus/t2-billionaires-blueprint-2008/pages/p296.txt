@@ -1,0 +1,39 @@
+
+
+      payments are 30 days past due.
+   • Ppt-Slow - some invoices are paid within terms, others are paid beyond
+     terms.
+   • (#) -indicates that no manner of payment was provided; the number merely
+     reflects the line where it appears in the listing. For example, (004) means it
+     is the fourth experience listed.
+   • Payment Commentary - such as "Cash in Advance," "Account in Dispute,"
+     "Credit Refused," or "Placed for Collection" may also display next to trade
+     details. "Placed for Collection" means the account was forwarded to a third
+     party for collection action during the past year.
+Payment Performance Trend - An element in the Credit eValuator and
+SelfMonitor 2.0 Reports that compares a company's dollar-weighted payment
+performance today to the company's payment performance three months ago. The
+Payment Performance Trend Arrow shows the payment trend (improving, steady
+or declining) of the business today to its payment trend three months ago and to an
+industry average. D&B Payment Index (or PAYDEX) is a dollar-weighted
+payment calculation on the number of days a business takes to pay based on the
+terms extended. Up to 875 payment experiences in the D&B trade file are used to
+dynamically calculate this score.
+Payment Summary by Industry - An overview of how a firm pays suppliers in
+up to 10 lines of business where it has recorded the highest number of credit
+transactions. This information can help you evaluate how quickly you can expect
+to be paid, based on a company's payment history with your industry peers.
+Payment Summary Section - This section highlights how quickly a company is
+likely to pay its bills in the future by reviewing its payment patterns with other
+vendors in the past, as reported to D&B. Payment performance is outlined relative
+to aging, dollar amounts, and industry groupings. Specific information includes:
+   • The D&B PAYDEX® Score
+   • Payment Summary by Industry
+   • Other Payment Categories
+Payment Trends - Spot trends in a company's business by analyzing how it pays
+its bills. D&B's PAYDEX Score compares a company's payment records with
+others in the industry -- for up to two years. This unique indicator gives you an
+instant overview of how a firm pays its bills. It is calculated based on up to 875
+payment experiences reported to D&B by various sources.
+
+                                                                               296

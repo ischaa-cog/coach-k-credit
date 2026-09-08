@@ -1,0 +1,37 @@
+
+your EIN (since you’ll need it later if you want to open a
+business bank account).
+        And finally, all corporations are “born” as C
+corporations automatically (unless you are filing an LLC).
+In order to NOT be subject to double-taxation laws, it’s best
+to change your C corporation to an S corporation. Once you
+receive your corporate resolution paperwork and your EIN,
+you can then go to the IRS.gov website, type “form 2553”
+into their search bar, and follow their instructions on filling
+out the form. Fax or mail it into the IRS as per their
+instructions. This will change your corporation to an S
+corporation where the profit “flow-down” will come to you
+at your personal income tax level 100% (instead of the
+corporation being taxed first on profits and THEN you get
+the remaining balance).
+
+       But…What About Forming an LLC Instead?
+
+         I don’t know how or why people are so hell-bent on
+forming an LLC when you can and should ONLY form an
+LLC if you have a PHYSICAL business partner to operate
+your business with you. And even then, it’s still not
+recommended and I’ll explain why.
+         First of all, the IRS has changed the rules on what
+was referred to as a “single-member” LLC. It used to be that
+you could form an LLC with only one member (you) on the
+filed paperwork. While many states still allow for the filing
+of a single-member LLC, the IRS no longer will accept tax
+returns on single-member filings. So, unless you want to get
+a nice little letter from the IRS demanding that you (a) add a
+partner to your LLC to make it a legal LLC entity, or (b)
+change the entity to a corporation, you may just want to form
+
+
+
+Copyright © 2024 All Rights Reserved                     Page 47

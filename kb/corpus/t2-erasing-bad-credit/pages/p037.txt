@@ -1,0 +1,44 @@
+
+         outstanding as of the date the information was provided to the
+         credit bureau.
+
+
+      7) The next item "account/docket number" is the account number
+          assigned by the creditor to the account. This number may not
+          be the same as the account number in your records due to
+          scrambling for privacy/security reasons or creditor added
+          numbers to segregate files by creditor office or region.
+
+
+      8) The "payment profile" column is one of the most confusing parts
+          of the credit report. When this field is filled in, it indicates the
+          payments to the account for the last 24 months; the first 12
+          months in the first row and the second 12 months immediately
+          below in the next row.
+
+
+         The numbers in the "payment pattern" field go from 1 to 5. The
+         number "1' indicates timely payment. The number "2" indicates
+         that the account was paid late but not more than 60 days past
+         due. The number "3" indicates that the account was paid late
+         more than 60 days but fewer than 90 days. The number"4"
+         indicates that the account was paid late more than 90 days but
+         fewer than 120 days. The number "5" indicates that the account
+         was paid but more than 120 days late.
+
+
+      9) Moving to the next line, the first item is the "status comment".
+         This is a narrative of the account's current status. If the account
+         was placed for collection, closed, transferred or has other
+         available comments, such information is entered at this location.
+
+
+      10) The next item is the "status date". This entry provides you with
+         the date of last activity. The date of last activity is the starting
+         point from where the bureaus measure the seven years that
+         information may remain on your credit report. The date of last
+         activity is properly measured from the date when an account
+         went to collection, was charged to profit and loss (write-off) or
+                                      Page 37
+
+eBusinesspower 2000,2001                                www.ErasingBadCredit.com

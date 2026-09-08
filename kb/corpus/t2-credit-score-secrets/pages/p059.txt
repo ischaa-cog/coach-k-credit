@@ -1,0 +1,41 @@
+
+
+
+        A close look at the body of the e-mail itself may reveal typos, misspellings, or
+        horrendously poor grammar. One reason for this is that many phishing attacks
+        are launched from overseas, and many are believed to be related to international
+        organized crime.
+
+        Despite all the attention phishing has received of late, there remains precious
+        little enforcement of the widespread problem and there are simply too many
+        attacks to handle. It is an easy buck for online criminals.
+
+        We already covered many of the ways you can detect a phishing attack, but there
+        are several simple steps you can take to keep your private information safe that
+        bear discussion. Experts say that educating consumers not to follow links in e-
+        mails is a good way to help them avoid phishing attacks. Rather than following a
+        link in an e-mail, open a browser and go to the site of the retailer or bank in
+        question.
+
+        When submitting personal information like credit card numbers, you can ensure
+        you are using a secure connection by looking for "https://" in front of the site's
+        location on your browser rather than "http://."
+
+        Speaking of your browser, make sure it is up to date with the latest security
+        patches. If you use Microsoft's Internet Explorer, visit WindowsUpdate.com to
+        see if you need any updates.
+
+        Here are some simple software tools you can use to help guard against online
+        identity theft:
+
+
+                 CoreStreet makes a free product called SpoofStick. It's a browser
+                 extension for both the Internet Explorer and FireFox Web browsers that
+                 helps users avoid spoofed Web sites. If you do follow a link in a suspicious
+                 e-mail, SpoofStick can tell you if the Web site you visit really is the Web
+                 site you think you are visiting.
+
+
+
+
+                                                                                                59

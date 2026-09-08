@@ -1,0 +1,37 @@
+
+
+
+        Collection accounts are accounts that are seriously past due and have been
+        transferred to an attorney, collection agency or creditor's internal collection
+        agency. As your debt is transferred between different agencies, you may see
+        several records on your report for the same debt.
+
+        Only one record should be marked as open at a time. All the collection records
+        and the original debt record will expire from your credit report at the same time.
+        Collection records use a unique summary format on your credit report:
+
+                 Creditor Name: The official name of the company that is currently
+                 attempting to collect the debt.
+                 Account Number: An identifying number for your account with the
+                 collection agency. This is not the same as the account number on your
+                 original debt.
+                 Original Creditor: The name of the original creditor where you
+                 accumulated your debt. This could be an account that is listed on your
+                 credit report (such as a credit card) or an account that is not listed on your
+                 report (such as a library, video rental or cell phone company). If this
+                 creditor was a medical office, the name may be masked for your privacy.
+                 Responsibility: This indicates your responsibility for the account. For
+                 example individual, joint or co-signer.
+                 Condition: The current status of your collection record. For example open,
+                 closed or paid.
+                 Original Balance: The amount of debt owed on the original account
+                 before it was transferred.
+                 Date Opened: The date the account was transferred to the collection
+                 agency.
+                 Date Reported: The date of the collection agency's last update to this
+                 account record.
+
+
+
+
+                                                                                                  13

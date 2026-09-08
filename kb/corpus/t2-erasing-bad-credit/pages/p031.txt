@@ -1,0 +1,43 @@
+
+         to the credit bureau.
+
+
+      7) The "amount past due" column shows the total amount of your
+          account balance that is delinquent, if any, as of the time the
+          information was reported to the bureau.
+
+
+      8) The "payment pattern" column is one of the most confusing parts
+          of the credit report. When this field is filled in, it indicates the
+          payments to the account for the last 24 months; the first 12
+          months in the top row and the second 12 months immediately
+          below in the next row.
+
+
+         The numbers in the "payment pattern" field range from 1 to 5 or
+         the letter "X". The number "1" indicates timely payment. The
+         number "2" indicates that the account was paid late but not
+         more than 60 days past due. The number "3" indicates that the
+         account was paid late more than 60 days but less than 90 days.
+         The number "4" indicates that the account was paid late more
+         than 90 days but less than 120 days. The number "5" indicates
+         that the account was paid but more than 120 days late. The
+         letter "X" indicates that no transactions were reported for that
+         month.
+
+
+                                 Credit Bureaus:
+                      Public Enemy #1
+                                     U.S. PIRG
+
+
+
+         Immediately below the second row of the "payment pattern"
+         field, you will find 4 sets of numbers. Reading from left to right,
+         the first number indicates the total number of months that the
+         account has been reviewed. The next numbers indicate
+         respectively the quantity of payments more than 30 days late,
+         60 days late and 90+ days late during the months reviewed.
+                                      Page 31
+
+eBusinesspower 2000,2001                               www.ErasingBadCredit.com

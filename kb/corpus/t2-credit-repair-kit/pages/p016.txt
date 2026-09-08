@@ -1,0 +1,48 @@
+      The timeliness of payments is also represented here. The following framework is
+      utilized:
+
+
+              0 = Approved not used; too new to rate
+              1 = Paid as agreed
+              2 = 30+ days past due
+              3 = 60+ days past due
+              4 = 90+ days past due
+              5 = Pays or paid 120+ days past the due date; or account is in collections
+              7 = Making regular payments under wage earner plan or similar
+                  arrangements
+              8 = Repossession
+              9 = Charged off to bad debt
+
+
+      l.   The date of the last update to your account
+
+
+In general, the credit granting companies that provide monthly reports to the credit
+reporting agencies include:
+       √ Any banks that you have done business with
+       √ Savings, and loans
+       √ Credit unions
+       √ Finance companies
+       √ Commercial lenders
+       √ Credit card companies
+       √ Mortgage companies
+       √ Auto leasing or auto lenders
+       √ Student loan companies
+       √ Personal loans companies
+
+   Additionally, the major credit card issuers that are not bank-affiliated, such as
+   American Express, Discover, Diner’s Club, etc. report regularly.
+
+   Also, the major department stores that issue credit cards, such as JC Penney,
+   Macy’s, Sears, etc. report regularly.
+
+   If you use a credit card from a gas company such as Mobil or Exxon, you will
+   see the reports here, as well.
+
+   Any other creditors that receive monthly installment payments will be listed her
+   as well.
+
+
+
+
+                                                   CREDIT BUREAUS AND CREDIT REPORTS -6

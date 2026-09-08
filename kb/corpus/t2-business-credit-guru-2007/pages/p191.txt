@@ -1,0 +1,42 @@
+      Once a DUNS number is assigned, a new credit file for the company is created and an overall score, called
+      the Paydex, is provided. The Paydex is one of 3 different scores used by DNB to provide credit
+      information on a company. What the Paydex is and its importance is discussed later, but what’s important
+      to note here is that the Paydex is just one of a few different scoring systems from DNB. There are others
+
+      (Commercial Credit Score and Financial Stress Score). The Paydex can be built to really high levels
+      but in the end it’s PART of the entire picture, not all of it.
+
+
+                                      Some Basic Business Credit Concepts
+
+
+      Most suppliers (or vendors), such as office supply stores, gas stations, computer outfits, usually use DNB
+      to grant store credit to a given legal entity. In other words, if I was the owner (bad personal credit) of a C-
+      corporation in state of California with a DUNS #, I can request a store credit card or credit line from
+      RadioShack or OfficeMax with nothing more than my DUNS# and my incorporation papers. Usually, no
+      credit checks are used and in quite a few cases personal credit information is not even requested. When a
+      retail business grants credit to be used within its chain of stores (I’m using the word stores loosely, it can
+      mean anything from gas stations, office supply stores, etc) I call it vendor or merchant credit.
+
+      Vendor credit can be easily and quickly built from a slew of well known vendors as big as Staples and
+      Texaco, to ghost stores that don’t sell any products but can be used to inflate the size of your credit lines.
+      This latter of type of credit is often associated with shelf companies that we will discuss in depth in later
+      chapters of this book. For the time being it is sufficient to know that the concept exists.
+
+      Bank credit, unlike vendor credit, is a parallel concept to credit cards. Banks give unsecured (as in they
+      do not encumber any asset) credit lines to organizations that are within the bank’s credit risk. Depending
+      on various banks, the risk assigned to a specific borrowing entity may entirely or partially depend on
+      factors such as:
+
+         Company’s credit scores and the scores of the guarantors
+         Company’s Industry
+         Company’s credit grade
+         Amount of time present management has been in place
+         Revenues and Income of the Company
+         Length of time company has been in business
+
+      These credit lines can be used for any business purpose but are most often used for proper cash flow
+      management. Bank credit lines always require prime credit scores from the guarantors, not necessarily
+
+
+

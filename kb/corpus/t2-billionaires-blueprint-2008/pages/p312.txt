@@ -1,0 +1,49 @@
+
+
+                rating key.
+                The blank symbol should not be interpreted as indicating that credit should be denied. It simply
+                means that the information available to D&B does not permit us to classify the company within our
+   -- (blank)   rating key and that further enquiry should be made before reaching a decision. Some reasons for
+                using a "-" symbol include: deficit net worth, bankruptcy proceedings, lack of insufficient payment
+                information, or incomplete history information.
+                Certain lines of business, primarily banks, insurance companies and government entities do not
+                lend themselves to classification under the D&B Rating system. Instead, we assign these types of
+      ER        businesses an Employee range symbol based on the number of people employed. No other
+                significance should be attached to this symbol. ERN should not be interpreted negatively. It simply
+                means we do not have information indicating how many people are employed at this firm.
+                Not Quoted. This is generally assigned when a business has been confirmed as no longer active at
+      NQ        the location, or when D & B is unable to confirm active operations. It may also appear on some
+                branch reports, when the branch is located in the same city as the headquarters.
+
+
+US Emplo yee Range Designation
+     ER1        1000 or more employees
+     ER2        500 to 999 employees
+     ER3        100 to 499 employees
+     ER4        50 to 99 employees
+     ER5        20 to 49 employees
+     ER6        10 to 19 employees
+     ER7        5 to 9 employees
+     ER8        1 to 4 employees
+     ERN        Not Available
+
+
+
+D&B Score Interpretation Table
+D&B Score Interpretation Table
+                D&B PAYDEX Score                       Payment Habit
+                        100                            Anticipate
+                         90                            Discount
+                         80                            Prompt
+                         70                            15 days beyond terms
+                         60                            22 days beyond terms
+                         50                            30 days beyond terms
+                         40                            60 days beyond terms
+                         30                            90 days beyond terms
+                         20                            120 days beyond terms
+                        UN                             Unavailable
+
+
+
+
+                                                                                                               312

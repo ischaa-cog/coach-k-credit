@@ -1,0 +1,41 @@
+
+
+
+        The e-mail asks the receiver for user names, passwords, account numbers, or
+        some other type of personal information by saying they are updating records or
+        something related to their account requires their attention. The e-mail usually
+        links to a site that also appears to be legitimate using logos and other symbols of
+        a real company, where visitors are asked to supply the information.
+
+        The first step to avoid becoming the victim of a phishing attack is to know what
+        companies do business with you by e-mail and familiarizing yourself with the
+        types information they request and how they request it.
+
+        What you will likely learn quickly is that, while online retailers you frequent and
+        financial services firms you use online often send you e-mail to make you aware
+        of new products or services, or even to alert you when your online bill is ready to
+        be viewed, they rarely if ever ask for any information from you.
+
+        Banks and financial services firms will never ask you for any personal information
+        via e-mail because e-mail can be notoriously insecure. So any e-mail asking you
+        for personal or account information, such as passwords, Social Security numbers,
+        PINs, credit or check card numbers, or other confidential information should be
+        deemed suspicious.
+
+        Often the sender of a phishing e-mail may appear to be legitimate, but e-mail
+        addresses are easily spoofed. Just look at the amount of spam you probably get
+        that appears to be from friends, co-workers, or even yourself.
+
+        If a phishing e-mail directs you to a link using an HTML e-mail, the text of the link
+        may appear to be legitimate, but following that link often brings you to a Web
+        site where the URL (in your Web browser's location bar) is often an IP address
+        (basically numbers separated by periods, like 128.0.0) or a site other than the
+        institution you think sent you the e-mail.
+
+        Often a sense of urgency is conveyed in the e-mail, such as an alert saying your
+        account will be closed if you don't provide information. Take a moment and don’t
+        fall for this.
+
+
+
+                                                                                                58

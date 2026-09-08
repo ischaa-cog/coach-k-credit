@@ -1,0 +1,41 @@
+
+
+factors determined by D&B's sophisticated analytical.
+Risk Summary - Identification of the Risk of Late Payment and Payment
+Performance Trend indicators in the Credit eValuator. The Risk of Late Payment is
+based on the D&B Credit Score, and the Payment Performance Trend is based on
+D&B's PAYDEX score. Both are indicators of short-term payment performance.
+Sales - Sales information provides a snapshot of a company's financial size in
+terms of sales/revenue volume. "Projected" indicates an estimated sales volume
+provided by management; "F" means figures were taken from an income statement.
+See the Finance Section for more details.
+Sales Trend - A Sales Trend is based upon additional data extracted from D&B's
+credit and financial statement databases. Sales data is captured on the percentage of
+growth or decline in a company's annual sales and employment over three and five
+year periods. This data is compared to the company's reported financial data to
+determine trend against the industry.
+Secured / Unsecured - In the Business Information and Comprehensive Reports,
+the Financing section will identify Secured, Unsecured or Secured/Unsecured
+when financing statements have been issued. A financing statement is proof of a
+security interest in personal property whereas a deed, properly recorded at a
+County Recorder’s Office, is proof of ownership for real property (land and
+buildings). In the D&B Business Information and Comprehensive Reports, the
+notation that FINANCING is secured means that a company's accounts
+receivables, inventory and/or other liquid assets have been pledged.
+SIC Code - The SIC code is a standardized numbering system developed by the
+Federal Government that classifies business establishments according to their
+industries. It is particularly helpful when you're looking to segment markets,
+analyze customer relationships, and conduct general business research. SIC codes
+divide all major economic activity into ten major divisions. Businesses are then
+further classified within each division. The first two digits in the code represent a
+company's major industry affiliation and its subdivision. For example, the first two
+digits in "Manufacturing," one of the ten major SIC divisions, range from 20 to 39.
+The remaining digits break down the divisions into specific activities and "sub-
+industries." If more than one SIC Code is listed, the first one is the company's
+primary line of business, with others comprising at least 10 percent of the
+company's revenue. A maximum of six SIC's will be listed for a company. Details
+can be found in the Operations Section of the Business Information Report.
+Special Events - Special Events alert you to any recent developments D&B learns
+about that may impact your potential relationship with a firm, such as bankruptcy
+
+                                                                                 299

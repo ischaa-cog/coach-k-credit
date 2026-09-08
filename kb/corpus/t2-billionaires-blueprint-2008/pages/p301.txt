@@ -1,0 +1,23 @@
+
+
+Summary of Payment Habits - Gives you a detailed look at payment practices
+reported to D&B to support your assessment, such as number of payment
+experiences by dollar amount and percent paid promptly.
+Trend Sales - Found in the Company Profile Report / Sales Information section,
+Trend Sales is the last (most current) year of the three year period.
+UCC (Uniform Commercial Code) Filing - By properly filing a financing
+statement at the state and/or local jurisdiction, the security interest of the secured
+party is protected. The document contains the names and addresses of the debtor
+and the secured party along with a description of the collateral (security interest).
+A financing statement is proof of a security interest in personal property whereas a
+deed, properly recorded at a County Recorder’s Office, is proof of ownership for
+real property (land and buildings).
+Worth - The net worth of the business. "E" indicates figures are estimates
+provided by the owners, partners or officers of the company; "F" means figures
+were taken from a financial statement. This element offers another view of the
+company's financial size. See the Finance Section for details.
+
+
+
+
+                                                                                  301

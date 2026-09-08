@@ -1,0 +1,69 @@
+                                                                                                        STRIPE & ACCOUNT STEPS
+
+
+
+C O M P L E T E T H E C A N C E L L AT I O N
+
+
+Follow the right cancellation path.
+Use the member’s account to make the change whenever possible. This keeps Stripe,
+GrantFind, and the confirmation email in sync.
+
+  3       Paid Premium: step by step
+
+             Open the member’s GrantFind profile
+      1
+             Have the member sign in, open Profile, and choose Manage Subscription. If you are assisting them, use the
+             approved support/admin process—never ask for their password.
+
+                GrantFind: Profile → Manage Subscription → Cancel My Subscription
+
+
+             Confirm the warning
+      2
+             Make sure the member understands that paid cancellation removes Pro features and AI tools immediately. Ask them to
+             confirm before proceeding.
+
+             Verify the result
+      3
+             Wait for the success message. Re-open the profile if needed and confirm the account no longer shows an active
+             Premium subscription.
+
+             Confirm Stripe status if assisting manually
+      4
+             In Stripe, search the exact customer email and confirm the subscription is cancelled. Check that there is no future
+             renewal scheduled.
+
+                Stripe: Customers → search email → open customer → Subscriptions → verify Cancelled
+
+
+
+
+  4       Premium Trial: step by step
+
+             Open Profile → Manage Subscription
+      1
+             Confirm the account shows a Premium trial and note the displayed trial end date.
+
+             Select Cancel My Trial
+      2
+             Confirm the member understands that the saved card will not be charged, while Premium access continues through the
+             trial end date.
+
+             Verify Stripe shows cancellation at period end
+      3
+             The subscription should remain trialing until the trial end, with cancellation scheduled and no conversion charge
+             expected.
+
+                Stripe: Customers → search email → open customer → Subscriptions → verify trial end and cancellation at period end
+
+
+
+
+   Member-facing wording: “Your cancellation is confirmed. Your Premium access will remain available until [date]. Your saved card
+   will not be charged for the trial.”
+
+
+
+
+GRANTFIND · Premium Member Cancellation SOP                                                                                          02
