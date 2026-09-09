@@ -17,6 +17,15 @@ kb/index/*.sqlite3
 kb/index/*.sqlite3-wal
 kb/index/*.sqlite3-shm
 
+# ── Generated, rebuildable from kb/corpus/*/pages/ via 30_bundle_pages.py ────
+# One bundle per document, holding the same page text the pages/ tree holds.
+# It exists so the uploaded skill stays under the 200-file cap; pages/ is the
+# committed source of truth.
+kb/corpus/*/pages.txt
+
+# ── Upload artifact, rebuildable via scripts/40_package.sh ───────────────────
+coach-k-credit-skill.zip
+
 # ── Build scratch ─────────────────────────────────────────────────────────────
 kb/sources/_staging/
 kb/corpus/_extract.log

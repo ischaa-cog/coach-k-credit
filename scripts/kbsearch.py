@@ -7,17 +7,19 @@ Search the knowledge base. BM25 ranked, tier-weighted, citation-shaped output.
     kbsearch.py "needs statement" --domain grants
     kbsearch.py "cancel premium" --staff          # separate index, staff only
 
-Output lines are the citation you paste into a canon note:
+Output lines are the citation you paste into a canon note, plus the command that
+prints the page behind it:
     [ck-part1 ch2 p8]  T1  ...paying the balance before the statement closing date...
+                       -> scripts/ckpage.py ck-part1 8
 
-Then Read the page file it names for full context:
-    kb/corpus/ck-part1/pages/p008.txt
+Run that before you use the claim. The snippet is a locator, not a source.
 """
 import argparse, re, sqlite3, sys
 from pathlib import Path
 
-ROOT  = Path(__file__).resolve().parent.parent
-INDEX = ROOT / "kb" / "index"
+ROOT   = Path(__file__).resolve().parent.parent
+INDEX  = ROOT / "kb" / "index"
+READER = ROOT / "scripts" / "ckpage.py"
 
 FTS_OPERATORS = re.compile(r'[":*()^]|\b(?:AND|OR|NOT|NEAR)\b')
 
@@ -53,7 +55,8 @@ def main():
     ap.add_argument("--chars", type=int, default=200, help="snippet width")
     ap.add_argument("--raw", action="store_true", help="pass the query to FTS5 verbatim")
     ap.add_argument("--staff", action="store_true", help="search the staff index instead")
-    ap.add_argument("--paths", action="store_true", help="print page file paths only")
+    ap.add_argument("--paths", action="store_true",
+                    help="print bare 'doc-id page' pairs only")
     args = ap.parse_args()
 
     db = INDEX / ("staff.sqlite3" if args.staff else "kb.sqlite3")
@@ -101,16 +104,16 @@ def main():
         print(f"# matched on '{mode}' (no page contained every term)")
 
     for doc_id, page, chapter, tier, date, volatility, prefix, title, snip, score in rows:
-        # Absolute, so the caller can Read it regardless of working directory.
-        rel = str(ROOT / "kb" / "corpus" / doc_id / "pages" / f"{prefix}{page:03d}.txt")
         if args.paths:
-            print(rel)
+            print(f"{doc_id} {page}")
             continue
+        # Absolute, so the caller can run it regardless of working directory.
+        reader = f'/usr/bin/python3 "{READER}" {doc_id} {page}'
         cite = f"[{doc_id}" + (f" ch{chapter}" if chapter else "") + f" {prefix}{page}]"
         stamp = f" {date}" if volatility == "volatile" and date not in (None, "unknown") else ""
         snip = re.sub(r"\s+", " ", snip).strip()[: args.chars]
         print(f"{cite:<34} T{tier}{stamp}  {snip}")
-        print(f"{'':<34} -> {rel}")
+        print(f"{'':<34} -> {reader}")
     return 0
 
 

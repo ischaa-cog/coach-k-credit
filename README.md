@@ -123,9 +123,10 @@ Add an entry to `kb/manifest.yaml` **first** — a source not in the manifest fa
 design. Then:
 
 ```bash
-bash "$CK/scripts/00_stage_local.sh"              # unpack + md5-dedupe
-/usr/bin/python3 "$CK/scripts/10_extract.py"      # extract to kb/corpus/
-/usr/bin/python3 "$CK/scripts/20_build_index.py"  # rebuild both indexes
+bash "$CK/scripts/00_stage_local.sh"                # unpack + md5-dedupe
+/usr/bin/python3 "$CK/scripts/10_extract.py"        # extract to kb/corpus/
+/usr/bin/python3 "$CK/scripts/20_build_index.py"    # rebuild both indexes
+/usr/bin/python3 "$CK/scripts/30_bundle_pages.py"   # bundle pages for packaging
 ```
 
 Set `fraud_screen: yes` on anything third-party; the extractor greps every page for CPN,
@@ -134,6 +135,23 @@ sweep, 609 and stated-income language and reports hits for review before you tru
 Google Drive material is pulled by file id through the MCP connector in-session — there is no
 local Drive credential and no crawl. `docs/DRIVE-MANIFEST.md` records every id that was
 pulled, deferred, or excluded as partner IP or PII.
+
+### Packaging it for a workspace upload
+
+```bash
+bash "$CK/scripts/40_package.sh"                  # -> coach-k-credit-skill.zip
+```
+
+The workspace skill uploader caps an upload at **200 files**, and the extraction tree is about
+1,650 page files on its own. The package therefore ships the runtime surface only: `SKILL.md`
+and its references, the canon notes, the FTS index, and one `pages.txt` bundle per document
+instead of a directory of pages. That is 53 files, and `ckpage.py` reads a page out of a
+bundle exactly as it reads one out of `pages/`, so retrieval behaves identically either way.
+
+`40_package.sh` refuses to write a zip that breaks the upload: no `SKILL.md`, frontmatter
+missing a usable single-line `name` or `description`, quarantined material staged, or more
+than 200 files. The source PDFs, the quarantine, the extraction tree and the build scripts
+stay in the repo, because nothing at answer time reads them.
 
 Full detail in [SETUP.md](SETUP.md).
 

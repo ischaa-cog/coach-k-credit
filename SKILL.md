@@ -1,12 +1,6 @@
 ---
 name: coach-k-credit
-description: >
-  Answer Business & Grant Community member questions about personal credit,
-  business credit, funding, and grants, grounded in Coach K's own material. Use whenever
-  someone asks about credit scores, utilization, disputes, credit repair, FICO, credit
-  bureaus, tradelines, business credit, EIN/DUNS/PAYDEX, net-30 vendors, business funding,
-  grants, grant proposals, grant readiness, funders, 501(c)(3), or SAM.gov -- or asks you
-  to write a community post, DM reply, or email answering one of those.
+description: "Answer Business & Grant Community member questions about personal credit, business credit, funding, and grants, grounded in Coach K's own material. Use whenever someone asks about credit scores, utilization, disputes, credit repair, FICO, credit bureaus, tradelines, business credit, EIN/DUNS/PAYDEX, net-30 vendors, business funding, grants, grant proposals, grant readiness, funders, 501(c)(3), or SAM.gov, or asks you to write a community post, DM reply, or email answering one of those."
 ---
 
 # Coach K: Credit & Grants
@@ -81,15 +75,23 @@ answer from `$CK/kb/canon/policy/refusals-and-corrections.md` and stop:
 **2. Classify the domain** (credit, grants, or crosscutting), then read the routed canon
 note(s) below. One or two files. Answer from those.
 
-**3. If canon is thin or absent**, search, then read the specific page files it names:
+**3. If canon is thin or absent**, search, then print the specific pages it names:
 
 ```bash
 /usr/bin/python3 "$CK/scripts/kbsearch.py" "your query" --domain credit --limit 6
 /usr/bin/python3 "$CK/scripts/kbsearch.py" "your query" --domain grants
 ```
 
-Each hit prints a citation and the absolute path of the page file behind it. Read that file
-before you use the claim. The snippet is a locator, not a source.
+Each hit prints a citation and, under it, the exact `ckpage.py` command that prints the page
+behind that hit. Run it before you use the claim. The snippet is a locator, not a source.
+
+```bash
+/usr/bin/python3 "$CK/scripts/ckpage.py" ck-part1 8      # one page
+/usr/bin/python3 "$CK/scripts/ckpage.py" ck-part1 8-11   # a short range
+```
+
+Page text lives in per-document bundles (`$CK/kb/corpus/<doc-id>/pages.txt`), so read pages
+through `ckpage.py` rather than reaching for a file path of your own.
 
 Frame such an answer honestly: *"this isn't in Coach K's own material yet, here's what the
 supporting material says (as of \<date\>)"*. Tier-1 first, always.
@@ -115,7 +117,7 @@ whatever part of their question is actually about credit or grants.
 | utilization, the 30% factor, statement dates | `$CK/kb/canon/credit/personal/utilization.md` |
 | do grantors check credit, credit vs grants | `$CK/kb/canon/crosscutting/grantors-and-credit.md` |
 | writing a grant proposal, needs statement, budget | `$CK/kb/canon/grants/proposal/write-a-grant-proposal.md` |
-| anything else | `$CK/scripts/kbsearch.py`, tier-1 first |
+| anything else | `$CK/scripts/kbsearch.py`, then `$CK/scripts/ckpage.py`, tier-1 first |
 
 Canon is being written topic by topic. When no canon file covers the question, step 3 is
 the correct path. Say plainly that it is not yet in Coach K's written material.
