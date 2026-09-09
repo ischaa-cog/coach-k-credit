@@ -46,4 +46,4 @@ cards together. One maxed-out card can hurt you while your overall number still 
 **Close.** Pull up your highest-balance card tonight and find out what its statement closing
 date is. That one date is the lever.
 
-*— Master Blueprint, Ch. 2 (FICO Deep Dive) & Ch. 19*
+*Source: Master Blueprint, Ch. 2 (FICO Deep Dive) & Ch. 19*

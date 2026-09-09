@@ -33,6 +33,22 @@ client PII would drift into the corpus.
 | `ck-transcript-marvin` | `1gx8CrbpfuYMSd9t5HuIK3s6MPULQtJuP3Be2-ynvXH4` | The Marvin Francois Show: Interview with Coach K | crosscutting |
 | `ck-transcript-jt` | `1VkNLm5dOAJ6lrFY9EFZp5el2IT0HBGsnN11Tds3oN3g` | JT Automations Interview with Coach K | crosscutting |
 
+## Link discrepancies, verified 2026-09-09
+
+Every file id above was re-resolved against Drive. All 15 still resolve. Canonical `viewUrl`s
+for the 8 ids that are also in `kb/manifest.yaml` are now stored there as `drive_url`, with
+`?usp=drivesdk` and `ouid=` stripped. Two notes:
+
+- **`ck-grant-writer-curriculum`** is titled *"Aug 2024 Coach K's Videos Scripts & Course
+  Outline"* in Drive, not "How to Become a Grant Writer". Same document, and only the
+  curriculum half was ingested; the rest is marketing copy.
+- **`ck-grant-cheatsheet`** is titled *"GrantFind  Grant Proposal Cheat Sheet Redesigned
+  (1).pdf"* in Drive, double space included.
+
+`ck-part1`, the Master Blueprint, has **no Drive copy**. Searches on both "Credit Secrets" /
+"Master Blueprint" and its staged filename return only Funding Blueprint flyers. It is
+staged locally and cites without a link.
+
 ## Page-scoped
 
 `ck-fbl-2025-notes` — **page 1 only.** Pages 2-8 are partner-speaker IP: Kenneth
