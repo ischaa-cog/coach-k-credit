@@ -160,4 +160,4 @@ Same four moves. A federal grant that DMs you first, asks for a processing fee, 
 guaranteed award is not a grant. Real federal opportunities are listed publicly on Grants.gov
 and never charge to apply. Paid grant writers are legitimate; "guaranteed funding" is not.
 
-*— Master Blueprint, Ch. 22, Ch. 10 & Ch. 11*
+*Source: Master Blueprint, Ch. 22, Ch. 10 & Ch. 11*

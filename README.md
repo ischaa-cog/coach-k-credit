@@ -1,6 +1,6 @@
 # coach-k-credit
 
-A Claude Code skill that drafts answers to Business & Grant Community member questions about
+A Claude Code skill that answers Business & Grant Community member questions about
 **personal credit, business credit, funding, and grants** — grounded in Coach K's own
 material, with a citation on every answer.
 
@@ -10,13 +10,46 @@ material, with a citation on every answer.
 
 ## What it does
 
-Ask a question in Claude Code and get back a draft in Coach K's voice — roughly 250 words for
-a definition, 500 for a procedure — ending in a source line like
-`— Master Blueprint, Ch. 2 & Ch. 19`. You review it and post it.
+Ask a question in Claude Code and get back the answer in Coach K's voice, spoken directly to
+the member, roughly 250 words for a definition and 500 for a procedure, formatted to be scanned
+on a phone (bolded lead answer, short sections, no em dashes) and ending in a source line like
+`Source: Master Blueprint, Ch. 2 & Ch. 19`.
+
+On the first question of a conversation it also prints a short **What you can ask** block with
+five sample questions, so a new user can see the shape of what the skill answers:
+
+1. My cards are at 60% utilization. What do I pay down first to move my score fastest?
+2. Do grant funders check my personal credit?
+3. How do I start building business credit under my EIN while my personal credit is still rough?
+4. What goes in the needs statement of a grant proposal?
+5. Someone is offering to sell me a tradeline to boost my score fast. Should I do it?
 
 It refuses, and explains why, on CPNs, credit sweeps, credit card fraud, "guaranteed"
 anything, and the "Section 609 loophole" — anchored to Coach K's own Chapter 22 scam-warning
 list, so a refusal reads as enforcing her teaching rather than overriding it.
+
+## The member-facing page
+
+`frontend/ask-coach-k.html` is an ask console in the Coach K brand (black and gold, Archivo
+and IBM Plex), published as a Claude Artifact. A member types a question and gets the answer
+in her voice, in the same format the skill produces in Claude Code.
+
+It cannot read `kb/` at runtime, so the skill is compiled into the prompt it sends: the
+refusal protocol as a hard first step, the voice and format rules, the confabulation traps,
+and all four `kb/canon/` notes verbatim, about 25 KB against a 64 KB cap. When a question
+falls outside that canon the page says so rather than filling the gap. Widening its coverage
+means writing more canon notes, not editing the page.
+
+Publishing it needs the `sample` capability, which spends the *viewer's* Claude usage and
+asks their permission on the first question:
+
+```
+Artifact(file_path="frontend/ask-coach-k.html", capabilities={"sample": {}})
+```
+
+Two known limits. The Drive links in the source line resolve only for accounts with access to
+the folder, so a member sees a link they cannot open. And the page carries no `kb/staff/`
+material by construction.
 
 ## Install on another machine
 
@@ -120,6 +153,10 @@ real page and that no canon file has drifted into pasting tier-2 text verbatim),
 
 ## For the team
 
-Members should not clone this — it needs Claude Code. The member-facing surface is the Phase 2
-web page, built from the same `kb/canon/` files. This repository is for the people drafting
-answers.
+The skill answers the member directly, in Coach K's voice, wherever it runs: a team member
+using it in Claude Code on someone's behalf, or a member using it themselves. It is not a
+drafting tool with a reviewer in the loop, so `kb/staff/` stays out of every answer. The
+Phase 2 web page is the wider member-facing surface, built from the same `kb/canon/` files.
+
+The repository itself stays private regardless of who is asking the questions. See
+[NOTICE.md](NOTICE.md).

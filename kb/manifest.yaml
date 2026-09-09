@@ -7,6 +7,9 @@
 # volatility: stable | volatile (vendor lists, bank criteria, approval amounts)
 # audience:   member | staff
 # fraud_screen: run a page-level grep for CPN/sweep/609/stated-income before indexing
+# drive_url:  canonical Google Drive link, present ONLY on Drive-pulled sources. Absent
+#             means there is no link to give: ck-part1 (the Master Blueprint) and every
+#             tier-2 ebook are staged locally and exist nowhere in this Drive.
 
 meta:
   pdftotext_version: "25.09.0"     # pin: re-extraction with another build must be reviewed
@@ -445,6 +448,7 @@ docs:
 # All synthetic pagination -- Drive text has no true page boundaries.
   ck-grant-guide:
     source_file: "ck-grant-guide.txt"
+    drive_url: "https://drive.google.com/file/d/10Qc3imuOvelbclTyOZmc3EKY6ZADD68h/view"
     title: "The Grant Writing Guide for New Business Owners"
     author: "Coach K (Kwenta Primm)"
     tier: 1
@@ -459,6 +463,7 @@ docs:
 
   ck-grant-cheatsheet:
     source_file: "ck-grant-cheatsheet.txt"
+    drive_url: "https://drive.google.com/file/d/1Kx7f-xR3f6BrAgc0cDu7oZizAOvUWhZr/view"
     title: "GrantFind Grant Proposal Cheat Sheet"
     author: "Coach K / GrantFind"
     tier: 1
@@ -473,6 +478,7 @@ docs:
 
   ck-grant-masterclass-wb:
     source_file: "ck-grant-masterclass-wb.txt"
+    drive_url: "https://drive.google.com/file/d/1SH9aUOahxAEKYGTODgc2C2aUUBXbYljv/view"
     title: "Grant Mastery Masterclass (Workbook)"
     author: "Coach K"
     tier: 1
@@ -492,6 +498,7 @@ docs:
 
   ck-grant-proposal-template:
     source_file: "ck-grant-proposal-template.txt"
+    drive_url: "https://docs.google.com/document/d/1exyCaxU0ghLCAoPkqWU79AuxgYbyhTAC8AiiJ3DxDxo/edit"
     title: "Grant Proposal Template (member fill-in)"
     author: "Coach K"
     tier: 1
@@ -506,6 +513,7 @@ docs:
 
   ck-grant-writer-curriculum:
     source_file: "ck-grant-writer-curriculum.txt"
+    drive_url: "https://docs.google.com/document/d/1uT9HKQcM1ZRzaqzcpLD0frwYDvfV9Ij5jlwrQBazAqI/edit"
     title: "How to Become a Grant Writer -- course curriculum"
     author: "Coach K"
     tier: 1
@@ -520,6 +528,7 @@ docs:
 
   ck-get-government-ready:
     source_file: "ck-get-government-ready.txt"
+    drive_url: "https://drive.google.com/file/d/1D2M9LA3ZmE4iExfwunfwEevN1cSPoX8Y/view"
     title: "Get Government Ready (SAM.gov / DUNS / NAICS checklist)"
     author: "Coach K"
     tier: 1
@@ -537,6 +546,7 @@ docs:
 
   ck-fbl-2025-notes:
     source_file: "ck-fbl-2025-notes.txt"
+    drive_url: "https://docs.google.com/document/d/1K8NSHyGCTX4WytGBTUv6qDZr9pvbyaD77YnqvgTf-j0/edit"
     title: "Funding Blueprint Live 2025 -- Coach K session notes"
     author: "Coach K (notes by Circle of Greatness)"
     tier: 1
@@ -556,6 +566,7 @@ docs:
 
   ck-transcript-access-granted:
     source_file: "ck-transcript-access-granted.txt"
+    drive_url: "https://docs.google.com/document/d/1cWGY3LjhZNW47pgWpjooug1YV-OEQhojlSc4urq0w3A/edit"
     title: "Access Granted: Coach K on Funding Strategies for Entrepreneurs"
     author: "Coach K"
     tier: 1

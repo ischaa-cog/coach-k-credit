@@ -73,4 +73,4 @@ Ch.6 names Uline, Quill, and Grainger as Tier 1 examples. Those are illustrative
 source is not dated — **do not present any vendor as currently offering net-30 or currently
 reporting.** The legitimacy checklist is durable; the vendor names are not.
 
-*— Master Blueprint, Ch. 6 & Ch. 17; Access Granted podcast*
+*Source: Master Blueprint, Ch. 6 & Ch. 17; Access Granted podcast*

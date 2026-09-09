@@ -95,5 +95,5 @@ your one-sentence case at the top of a blank page, then let the template carry t
 Always follow the funder's official instructions where they differ from this. Educational
 guidance, not a guarantee of funding.
 
-*— GrantFind Grant Proposal Cheat Sheet; Grant Writing Guide, Ch. 3 & Ch. 4; Funding
-Blueprint Live (REAL framework); Grant Proposal Template*
+*Source: GrantFind Grant Proposal Cheat Sheet; Grant Writing Guide, Ch. 3 & Ch. 4;
+Funding Blueprint Live (REAL framework); Grant Proposal Template*
